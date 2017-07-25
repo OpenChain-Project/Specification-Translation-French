@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ensure steps were taken to &lt;t0/&gt;create,&lt;t1/&gt; record and make &lt;t2/&gt;Software Staff &lt;t3/&gt;aware &lt;t4/&gt;of &lt;t5/&gt;the existence of a FOSS &lt;t6/&gt;policy.&lt;t7/&gt; Although no requirements are provide&lt;t8/&gt;d&lt;t9/&gt; here on what should be included in the policy, &lt;t10/&gt;other sections may impose requirements on the policy&lt;t11/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142626Z" creationid="BrunoGrasset" creationdate="20170725T142626Z">
+        <seg>S'assurer que l'Equipe Logiciel ait été informée de l'existence d'une politique FOSS. Bien qu'aucune exigence ne soit fournie ici sur ce que la politique devrait contenir, d'autres sections peuvent définir des exigences sur son contenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>FOSS Liaison must make commercially reasonable efforts to respond to FOSS compliance inquiries as appropriate; and</seg>
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170725T135045Z" creationid="camille" creationdate="20170725T135045Z">
@@ -172,6 +180,14 @@
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142450Z" creationid="BrunoGrasset" creationdate="20170725T142450Z">
         <seg>Introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mandatory FOSS training for all Software Staff exists such that:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142818Z" creationid="BrunoGrasset" creationdate="20170725T142818Z">
+        <seg>Il existe une formation sur le FOSS, obligatoire pour l"Equipe Logiciel, qui :</seg>
       </tuv>
     </tu>
     <tu>
@@ -308,6 +324,14 @@
       </tuv>
       <tuv lang="FR" changeid="brgr882" changedate="20170725T141100Z" creationid="brgr882" creationdate="20170725T141100Z">
         <seg>Le groupe d’étude a évolué en un groupe de travail, et en avril 2016, organisé formellement en tant que projet collaboratif de la Fondation Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The training&lt;t0/&gt;, at&lt;t1/&gt; a minimum, covers the following topics:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142905Z" creationid="BrunoGrasset" creationdate="20170725T142905Z">
+        <seg>Au minimum, couvre les sujets suivants :</seg>
       </tuv>
     </tu>
     <tu>
