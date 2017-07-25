@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>1.1.1&lt;t0/&gt; &lt;t1/&gt;A &lt;t2/&gt;document&lt;t3/&gt;ed&lt;t4/&gt; &lt;t5/&gt;FOSS policy exists&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142234Z" creationid="BrunoGrasset" creationdate="20170725T142234Z">
+        <seg>1.1.1 Il existe une politique documentée relative aux FOSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t1/&gt;The requirements represent a base level (minimum) set of requirements a program must satisfy to be considered OpenChain &lt;t2/&gt;Conforming&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="brgr882" changedate="20170725T141211Z" creationid="brgr882" creationdate="20170725T141211Z">
@@ -14,10 +22,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t2/&gt;The&lt;t3/&gt; policy &lt;t4/&gt;must be &lt;t5/&gt;internally communicated.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142207Z" creationid="BrunoGrasset" creationdate="20170725T142207Z">
+        <seg>La politique doit être communiquée en interne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t7/&gt;Depending on the organization, t&lt;t8/&gt;hat&lt;t9/&gt; may&lt;t10/&gt; include (but &lt;t11/&gt;is &lt;t12/&gt;not limited to) software developers, release engineers, quality engineer&lt;t13/&gt;s&lt;t14/&gt;, &lt;t15/&gt;product &lt;t16/&gt;marketing and &lt;t17/&gt;product &lt;t18/&gt;management.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142020Z" creationid="BrunoGrasset" creationdate="20170725T142020Z">
+        <seg>En fonction des organisations, ceci peut inclure (mais n'est pas limité à) les développeurs logiciel, les ingénieurs de version, les ingénieurs qualité, les responsables produit et marketing produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A description of the SPDX specification can be found &lt;t6/&gt;at ww&lt;t7/&gt;w&lt;t8/&gt;.&lt;t9/&gt;spdx.org&lt;t10/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142100Z" creationid="BrunoGrasset" creationdate="20170725T142100Z">
+        <seg>Une description de la spécification SPDX peut être trouvée sur le site www.spdx.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A study group was formed to consider whether a standard program specification could be created that would: &lt;t0/&gt;i&lt;t1/&gt;) facilitate greater quality and consistency of open source compliance information being shared across the industry; and ii) decrease the high transaction costs associated with open source resulting from compliance rework.</seg>
       </tuv>
       <tuv lang="FR" changeid="brgr882" changedate="20170725T141054Z" creationid="brgr882" creationdate="20170725T141054Z">
         <seg>Un groupe d’étude fût formé pour évaluer si une spécification d’un programme standard pourrait être créée qui permettrait de : &lt;t0/&gt;i&lt;t1/&gt;) faciliter une meilleure qualité et cohérence des informations de conformité open source partagées au travers de l’industrie ; et ii) diminuer les coûts importants associés à l’open source résultant de la nécessité de revoir la conformité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A written FOSS policy exists &lt;t0/&gt;that governs FOSS license compliance of the Supplied Software distribution&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142201Z" creationid="BrunoGrasset" creationdate="20170725T142201Z">
+        <seg>Il existe une politique formelle relative aux FOSS qui régit la conformité aux licences FOSS pour la distribution du Logiciel Fourni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72,8 +112,8 @@
       <tuv lang="EN">
         <seg>G1: Know Your FOSS R&lt;t0/&gt;esponsibilities</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170725T135311Z" creationid="hvovietanh" creationdate="20170725T135311Z">
-        <seg>G1: Connaître vos responsabilités&lt;t0/&gt;vis à vis des FOSS</seg>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142149Z" creationid="hvovietanh" creationdate="20170725T135311Z">
+        <seg>G1: Connaître vos responsabilités vis à vis des FOSS</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +122,14 @@
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170725T132649Z" creationid="camille" creationdate="20170725T132649Z">
         <seg>G2: Attribuer les responsabilités pour atteindre la &lt;t0/&gt;conformité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Identified Licenses&lt;t0/&gt; - a set of FOSS licenses identified as a result of following an appropriate method of identifying such licenses.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T141941Z" creationid="BrunoGrasset" creationdate="20170725T141941Z">
+        <seg>Licences Identifiées - un ensemble de licences FOSS identifiées comme résultat d'une méthode appropriée d'identification de telles licences.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120,6 +168,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OpenChain &lt;t0/&gt;Conforming&lt;t1/&gt; &lt;t2/&gt;-&lt;t3/&gt; a program that satisfies all the requirements of this specification.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T141951Z" creationid="BrunoGrasset" creationdate="20170725T141951Z">
+        <seg>Conforme à OpenChain&lt;t0/&gt; - un programme qui satisfait toutes les exigences de cette spécification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OpenChain Specification</seg>
       </tuv>
       <tuv lang="FR" changeid="hvovietanh" changedate="20170725T135247Z" creationid="camille" creationdate="20170725T130754Z">
@@ -136,6 +192,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142128Z" creationid="BrunoGrasset" creationdate="20170725T142128Z">
+        <seg>Exigences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SPDX&lt;t0/&gt; &lt;t1/&gt;or&lt;t2/&gt; Software Package Data Exchange&lt;t3/&gt; &lt;t4/&gt;-&lt;t5/&gt; the format standard created by the SPDX Working Group for exchanging license and copyright information for a given software package.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142031Z" creationid="BrunoGrasset" creationdate="20170725T142031Z">
+        <seg>SPDX ou Software Package Data Exchange (Echange de Données de Paquet Logiciel) - le format standard créé par le Groupe de Travail SPDX pour les informations de licence et de droits d'auteur pour un paquet logiciel donné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Section 2 introduces definitions of key terms used throughout the specification.</seg>
       </tuv>
       <tuv lang="FR" changeid="brgr882" changedate="20170725T141428Z" creationid="brgr882" creationdate="20170725T141428Z">
@@ -148,6 +220,22 @@
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T141610Z" creationid="BrunoGrasset" creationdate="20170725T141610Z">
         <seg>La section 3 présentes les exigences de la spécification avec pour chacune une liste d’un ou plusieurs --Artéfacts-- de Vérification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Software Staff&lt;t0/&gt; - &lt;t1/&gt;a&lt;t2/&gt;ny employee or contractor that &lt;t3/&gt;defines,&lt;t4/&gt; contributes to or has responsib&lt;t5/&gt;ility&lt;t6/&gt; for preparing Supplied Software.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142003Z" creationid="BrunoGrasset" creationdate="20170725T142003Z">
+        <seg>Equipe Logiciel - tout employé ou consultant qui &lt;t0/&gt;définit,&lt;t1/&gt; contribue à, ou est responsable de préparer, le Logiciel Fourni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Supplied Software&lt;t0/&gt; &lt;t1/&gt;-&lt;t2/&gt; &lt;t3/&gt;software that an organization delivers to third parties (e.g., other organizations or &lt;t4/&gt;i&lt;t5/&gt;ndividuals).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142112Z" creationid="BrunoGrasset" creationdate="20170725T142112Z">
+        <seg>Logiciel Fourni - logiciel qu'une organisation fournit à des tierces parties (i.e., personnes morales et/ou physiques).</seg>
       </tuv>
     </tu>
     <tu>
@@ -212,6 +300,14 @@
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170725T140243Z" creationid="camille" creationdate="20170725T140243Z">
         <seg>Point(s) de vérification &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Verification Artifacts &lt;t0/&gt;-&lt;t1/&gt; &lt;t2/&gt;e&lt;t3/&gt;vidence that must exist in order for a given requirement to be considered satisfied.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142124Z" creationid="BrunoGrasset" creationdate="20170725T142124Z">
+        <seg>Points de Vérification - preuve qui doit exister pour qu'une exigence puisse être considérée comme satisfaite.</seg>
       </tuv>
     </tu>
     <tu>
