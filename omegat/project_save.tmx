@@ -54,6 +54,14 @@
         <seg>Indiquez publiquement &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;un moyen simple de joindre le&lt;t3/&gt; correspondant FOSS.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Verification Artifact&lt;t0/&gt;(&lt;t1/&gt;s&lt;t2/&gt;)&lt;t3/&gt;:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170725T140243Z" creationid="camille" creationdate="20170725T140243Z">
+        <seg>Point(s) de vérification &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;:</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
