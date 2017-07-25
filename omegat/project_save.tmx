@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A documented procedure exists &lt;t0/&gt;that&lt;t1/&gt; ensures the Compliance Artifacts are &lt;t2/&gt;prepared and distributed&lt;t3/&gt; with Supplied Software &lt;t4/&gt;release&lt;t5/&gt; &lt;t6/&gt;as required by the Identified Licenses.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T151322Z" creationid="BrunoGrasset" creationdate="20170725T151322Z">
+        <seg>Il existe une procédure documentée qui assure que les Livrables de Conformité A documented procedure exists &lt;t0/&gt;that&lt;t1/&gt; ensures the Compliance Artifacts are &lt;t2/&gt;prepared and distributed&lt;t3/&gt; with Supplied Software &lt;t4/&gt;release&lt;t5/&gt; &lt;t6/&gt;as required by the Identified Licenses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A documented procedure exists to review and document the obligations, restrictions and rights granted by each Identified License governing the Supplied Software.</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T145417Z" creationid="BrunoGrasset" creationdate="20170725T145316Z">
@@ -484,6 +492,14 @@
       </tuv>
       <tuv lang="FR" changeid="brgr882" changedate="20170725T141417Z" creationid="brgr882" creationdate="20170725T141417Z">
         <seg>Ceci assure un niveau --réaliste-- de flexibilité qui permet aux différentes organisations d’adapter leurs politiques et processus pour mieux atteindre leurs objectifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This set is referred to as the Compliance Artifacts which may include (but &lt;t4/&gt;are&lt;t5/&gt; &lt;t6/&gt;not limited to) &lt;t7/&gt;one or more of &lt;t8/&gt;the following&lt;t9/&gt;: source code, attribution notices, copyright notices, copy of licenses, modification notifications, written offers, SPDX documents and so forth.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T151244Z" creationid="BrunoGrasset" creationdate="20170725T151244Z">
+        <seg>Cet ensemble correspond aux Livrables de Conformité qui peuvent inclure (mais ne sont pas limités à) un ou plusieurs des items suivants : code source, notices d'attribution, notices de droits d'auteur, copie des licences, notifications de modifications, offres écrites, documents SPDX et ainsi de suite.</seg>
       </tuv>
     </tu>
     <tu>
