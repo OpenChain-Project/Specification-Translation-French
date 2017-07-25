@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>G1: Know Your FOSS R&lt;t0/&gt;esponsibilities</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170725T135311Z" creationid="hvovietanh" creationdate="20170725T135311Z">
+        <seg>G1: Connaître vos responsabilités&lt;t0/&gt;vis à vis des FOSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>G2: Assign Responsibility for Achieving C&lt;t0/&gt;ompliance</seg>
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170725T132649Z" creationid="camille" creationdate="20170725T132649Z">
@@ -82,8 +90,8 @@
       <tuv lang="EN">
         <seg>OpenChain Specification</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170725T130754Z" creationid="camille" creationdate="20170725T130754Z">
-        <seg>Specifications OpenChain</seg>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170725T135247Z" creationid="camille" creationdate="20170725T130754Z">
+        <seg>Specifications OpenChai</seg>
       </tuv>
     </tu>
     <tu>
