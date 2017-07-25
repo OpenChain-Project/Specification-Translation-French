@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Basics &lt;t0/&gt;of &lt;t1/&gt;Intellectual Property&lt;t2/&gt; law pertain&lt;t3/&gt;ing&lt;t4/&gt; to FOSS and FOSS licenses&lt;t5/&gt;;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T143123Z" creationid="BrunoGrasset" creationdate="20170725T143052Z">
+        <seg>Les bases de la Propriété Intellectuelle en relation avec le FOSS et les licences FOSS ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Definitions</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T141857Z" creationid="BrunoGrasset" creationdate="20170725T141857Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T141928Z" creationid="BrunoGrasset" creationdate="20170725T141928Z">
         <seg>Contact FOSS - une personne chargée de recevoir les demandes externes de renseignement sur les FOSS&lt;t4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FOSS l&lt;t0/&gt;icensing concepts (including the concept&lt;t1/&gt;s&lt;t2/&gt; of permissive and &lt;t3/&gt;copyleft&lt;t4/&gt; licenses)&lt;t5/&gt;;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T143213Z" creationid="BrunoGrasset" creationdate="20170725T143213Z">
+        <seg>Les concepts de licences FOSS (y compris les concept de licence permissive et copyleft) ;</seg>
       </tuv>
     </tu>
     <tu>
@@ -284,6 +300,14 @@
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142112Z" creationid="BrunoGrasset" creationdate="20170725T142112Z">
         <seg>Logiciel Fourni - logiciel qu'une organisation fournit à des tierces parties (i.e., personnes morales et/ou physiques).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The FOSS policy and where to find a copy&lt;t0/&gt;;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142926Z" creationid="BrunoGrasset" creationdate="20170725T142926Z">
+        <seg>La politique FOSS et où en trouver une copie ;</seg>
       </tuv>
     </tu>
     <tu>
