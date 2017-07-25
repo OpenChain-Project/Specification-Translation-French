@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t1/&gt;The requirements represent a base level (minimum) set of requirements a program must satisfy to be considered OpenChain &lt;t2/&gt;Conforming&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brgr882" changedate="20170725T141211Z" creationid="brgr882" creationdate="20170725T141211Z">
+        <seg>Les exigences représentent un jeu d’exigences de base (minimum) qu’un programme doit satisfaire pour être considéré Conforme à OpenChain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A study group was formed to consider whether a standard program specification could be created that would: &lt;t0/&gt;i&lt;t1/&gt;) facilitate greater quality and consistency of open source compliance information being shared across the industry; and ii) decrease the high transaction costs associated with open source resulting from compliance rework.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brgr882" changedate="20170725T141054Z" creationid="brgr882" creationdate="20170725T141054Z">
+        <seg>Un groupe d’étude fût formé pour évaluer si une spécification d’un programme standard pourrait être créée qui permettrait de : &lt;t0/&gt;i&lt;t1/&gt;) faciliter une meilleure qualité et cohérence des informations de conformité open source partagées au travers de l’industrie ; et ii) diminuer les coûts importants associés à l’open source résultant de la nécessité de revoir la conformité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As a consequence, at each tier of the supply chain, downstream organizations were frequently redoing the compliance work already performed b&lt;t0/&gt;y other upstream organizations.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brgr882" changedate="20170725T141030Z" creationid="brgr882" creationdate="20170725T141030Z">
+        <seg>En conséquence, à chaque maillon de la chaîne de fournisseurs, les organisations avales refaisaient régulièrement le travail de conformité déjà réalisé par les organisations amonts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Assign individual(s) responsible for receiving external FOSS inquiries;</seg>
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170725T133552Z" creationid="camille" creationdate="20170725T133552Z">
@@ -40,6 +64,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In accordance with the Vision and Mission, this specification defines a set of requirements that if met, would significantly increases the probability that an open source compliance program had achieved a sufficient level of quality, consistency and completeness; although a program that satisfies all the specification requirements does &lt;t0/&gt;not guarantee full compliance.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brgr882" changedate="20170725T141158Z" creationid="brgr882" creationdate="20170725T141158Z">
+        <seg>En accord avec la Vision et la Mission, cette spécification définit un jeu d’exigences qui, si satisfaites, améliorera significativement la probabilité qu’un programme de conformité open source ait achevé un niveau suffisant de qualité, cohérence et complétude ; bien qu’un programme qui satisfasse toutes les exigences de la spécification ne garantisse pas une conformité complète.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mission&lt;t0/&gt;: &lt;t1/&gt;Establish requirements to achieve effective management of free/open source software (FOSS) for software supply chain participants, such that the requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brgr882" changedate="20170725T141153Z" creationid="brgr882" creationdate="20170725T141153Z">
+        <seg>Mission: Etablir les exigences pour atteindre une gestion efficace des logiciels libre et/ou open source pour les participants de la chaîne de fournisseurs de logiciel, afin que les exigences et garanties associées soient développées collaborativement et ouvertement par les représentants de la chaîne de fournisseurs de logiciel, la communauté open source, et le monde universitaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OpenChain Specification</seg>
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170725T130754Z" creationid="camille" creationdate="20170725T130754Z">
@@ -64,10 +104,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Vision and Mission of the OpenChain Initiative are as follows:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brgr882" changedate="20170725T141113Z" creationid="brgr882" creationdate="20170725T141113Z">
+        <seg>La Vision et la Mission de l’initiative OpenChain sont les suivantes :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The latter observation resulted in a lack of trust in the consistency and quality of the compliance artifacts accompanying the software being exchanged.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brgr882" changedate="20170725T141015Z" creationid="brgr882" creationdate="20170725T141015Z">
+        <seg>Cette dernière observation a entrainé un manque de confiance dans la cohérence et la qualité des livrables de conformité accompagnant le logiciel échangé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The study group evolved into a &lt;t2/&gt;w&lt;t3/&gt;ork &lt;t4/&gt;g&lt;t5/&gt;roup, and in April 2016, formally organized as a Linux Foundation collaborative project&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brgr882" changedate="20170725T141100Z" creationid="brgr882" creationdate="20170725T141100Z">
+        <seg>Le groupe d’étude a évolué en un groupe de travail, et en avril 2016, organisé formellement en tant que projet collaboratif de la Fondation Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Verification Artifact&lt;t0/&gt;(&lt;t1/&gt;s&lt;t2/&gt;)&lt;t3/&gt;:</seg>
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170725T140243Z" creationid="camille" creationdate="20170725T140243Z">
         <seg>Point(s) de vérification &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vision&lt;t0/&gt;: &lt;t1/&gt;A software supply chain where free/open source software (FOSS) is delivered with &lt;t2/&gt;trustworthy&lt;t3/&gt; and consistent compliance information.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brgr882" changedate="20170725T141141Z" creationid="brgr882" creationdate="20170725T141141Z">
+        <seg>Vision : Une chaîne de fournisseur de logiciel dans laquelle le logciel libre et/ou open source est fourni avec des informations de conformité fiables et cohérentes.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
