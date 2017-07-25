@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1.2.1&lt;t0/&gt; &lt;t1/&gt;FOSS &lt;t2/&gt;training&lt;t3/&gt; &lt;t4/&gt;materials covering the above topics exists (e.g., slide decks, online course, &lt;t5/&gt;or other training materials&lt;t6/&gt;).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T144137Z" creationid="BrunoGrasset" creationdate="20170725T144137Z">
+        <seg>1.2.1 Il existe un support de formation au FOSS couvrant les sujets mentionnés ci-dessus (par exemple, diapositives de présentation, cours en ligne, ou autre support de formation).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t1/&gt;The requirements represent a base level (minimum) set of requirements a program must satisfy to be considered OpenChain &lt;t2/&gt;Conforming&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="brgr882" changedate="20170725T141211Z" creationid="brgr882" creationdate="20170725T141211Z">
@@ -420,6 +428,14 @@
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170725T140243Z" creationid="camille" creationdate="20170725T140243Z">
         <seg>Point(s) de vérification &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Verification Artifact&lt;t0/&gt;(s)&lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T143946Z" creationid="BrunoGrasset" creationdate="20170725T143930Z">
+        <seg>Point(s) de vérification :</seg>
       </tuv>
     </tu>
     <tu>
