@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A test may be used to allow Software Staff to satisfy the training requirement&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T143848Z" creationid="BrunoGrasset" creationdate="20170725T143848Z">
+        <seg>Un test peut être utilisé pour permettre à l'Equipe Logiciel de satisfaire cette exigence de formation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A written FOSS policy exists &lt;t0/&gt;that governs FOSS license compliance of the Supplied Software distribution&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142201Z" creationid="BrunoGrasset" creationdate="20170725T142201Z">
@@ -300,6 +308,14 @@
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T141610Z" creationid="BrunoGrasset" creationdate="20170725T141610Z">
         <seg>La section 3 présentes les exigences de la spécification avec pour chacune une liste d’un ou plusieurs --Artéfacts-- de Vérification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Software Staff must have completed FOSS training &lt;t0/&gt;with&lt;t1/&gt;in the last 24 months (to be considered current).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T143723Z" creationid="BrunoGrasset" creationdate="20170725T143723Z">
+        <seg>L'Equipe Logiciel doit avoir reçu cette formation FOSS dans les derniers 24 mois (pour être considérée valide).</seg>
       </tuv>
     </tu>
     <tu>
