@@ -46,6 +46,14 @@
         <seg>Specifications OpenChain</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Publicly identify &lt;t0/&gt;a &lt;t1/&gt;means &lt;t2/&gt;by which one can contact&lt;t3/&gt; the FOSS Liaison.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170725T140218Z" creationid="camille" creationdate="20170725T140218Z">
+        <seg>Indiquez publiquement &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;un moyen simple de joindre le&lt;t3/&gt; correspondant FOSS.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
