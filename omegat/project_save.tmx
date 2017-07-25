@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1.2.2&lt;t0/&gt; Method of tracking the completion of the &lt;t1/&gt;training &lt;t2/&gt;f&lt;t3/&gt;or all Software Staff&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T144425Z" creationid="BrunoGrasset" creationdate="20170725T144425Z">
+        <seg>1.2.2 Méthode de suivi de l'accomplissement de la formation par l'Equipe Logiciel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t1/&gt;The requirements represent a base level (minimum) set of requirements a program must satisfy to be considered OpenChain &lt;t2/&gt;Conforming&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="brgr882" changedate="20170725T141211Z" creationid="brgr882" creationdate="20170725T141211Z">
