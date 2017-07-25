@@ -1,0 +1,4 @@
+Rationale	Raison
+Verification Artifacts	Points de Vérification
+Requirements	Exigences
+Definitions	Définitions
