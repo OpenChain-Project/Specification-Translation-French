@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1.1.2&lt;t0/&gt; &lt;t1/&gt;A &lt;t2/&gt;document&lt;t3/&gt;ed&lt;t4/&gt; procedure exists that makes all Software Staff aware of the existence of the FOSS policy (e.g., via training, internal wiki, &lt;t5/&gt;or other &lt;t6/&gt;practical&lt;t7/&gt; communication method&lt;t8/&gt;)&lt;t9/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142257Z" creationid="BrunoGrasset" creationdate="20170725T142257Z">
+        <seg>1.1.2 Il existe une procédure documentée informant l'Equipe Logiciel de l'existence d'une politique FOSS (par exemple, via formation, wiki interne, ou autre moyen de communication).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t1/&gt;The requirements represent a base level (minimum) set of requirements a program must satisfy to be considered OpenChain &lt;t2/&gt;Conforming&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="brgr882" changedate="20170725T141211Z" creationid="brgr882" creationdate="20170725T141211Z">
@@ -160,6 +168,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142450Z" creationid="BrunoGrasset" creationdate="20170725T142450Z">
+        <seg>Introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mission&lt;t0/&gt;: &lt;t1/&gt;Establish requirements to achieve effective management of free/open source software (FOSS) for software supply chain participants, such that the requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.</seg>
       </tuv>
       <tuv lang="FR" changeid="brgr882" changedate="20170725T141153Z" creationid="brgr882" creationdate="20170725T141153Z">
@@ -178,8 +194,16 @@
       <tuv lang="EN">
         <seg>OpenChain Specification</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170725T135247Z" creationid="camille" creationdate="20170725T130754Z">
-        <seg>Specifications OpenChai</seg>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142434Z" creationid="camille" creationdate="20170725T130754Z">
+        <seg>Spécifications OpenChain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenChain Specification &lt;t0/&gt;1.1</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142542Z" creationid="BrunoGrasset" creationdate="20170725T142542Z">
+        <seg>Spécifications OpenChain &lt;t0/&gt;1.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -188,6 +212,14 @@
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170725T140218Z" creationid="camille" creationdate="20170725T140218Z">
         <seg>Indiquez publiquement &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;un moyen simple de joindre le&lt;t3/&gt; correspondant FOSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rationale&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142302Z" creationid="BrunoGrasset" creationdate="20170725T142302Z">
+        <seg>Raison&lt;t0/&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -308,6 +340,14 @@
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142124Z" creationid="BrunoGrasset" creationdate="20170725T142124Z">
         <seg>Points de Vérification - preuve qui doit exister pour qu'une exigence puisse être considérée comme satisfaite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version&lt;t0/&gt; 1.1</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142454Z" creationid="BrunoGrasset" creationdate="20170725T142454Z">
+        <seg>Version&lt;t0/&gt; 1.1</seg>
       </tuv>
     </tu>
     <tu>
