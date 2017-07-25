@@ -88,16 +88,16 @@
       <tuv lang="EN">
         <seg>A documented procedure exists to review and document the obligations, restrictions and rights granted by each Identified License governing the Supplied Software.</seg>
       </tuv>
-      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T145316Z" creationid="BrunoGrasset" creationdate="20170725T145316Z">
-        <seg>Il existe une procédure documentée pour revoir et renseigner les obligations, restrictions et droits offerts A documented procedure exists to review and document the obligations, restrictions and rights granted by each Identified License governing the Supplied Software.</seg>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T145417Z" creationid="BrunoGrasset" creationdate="20170725T145316Z">
+        <seg>Il existe une procédure documentée pour revoir et renseigner les obligations, restrictions et droits accordés par chacune des Licences Identifiées gouvernant le Logiciel Fourni.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>A process exists for reviewing &lt;t0/&gt;the &lt;t1/&gt;Identified Licenses to determine the obligations, restrictions and rights granted by &lt;t2/&gt;each&lt;t3/&gt; license.</seg>
       </tuv>
-      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T145154Z" creationid="BrunoGrasset" creationdate="20170725T145054Z">
-        <seg>Il existe un processus pour revoir les Licences Identifiées pour déterminer leurs obligations, restrictions et droits offerts par chacune des licences.</seg>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T145325Z" creationid="BrunoGrasset" creationdate="20170725T145054Z">
+        <seg>Il existe un processus pour revoir les Licences Identifiées pour déterminer leurs obligations, restrictions et droits accordés par chacune des licences.</seg>
       </tuv>
     </tu>
     <tu>
@@ -468,6 +468,14 @@
       </tuv>
       <tuv lang="FR" changeid="brgr882" changedate="20170725T141417Z" creationid="brgr882" creationdate="20170725T141417Z">
         <seg>Ceci assure un niveau --réaliste-- de flexibilité qui permet aux différentes organisations d’adapter leurs politiques et processus pour mieux atteindre leurs objectifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To ensure a &lt;t0/&gt;process&lt;t1/&gt; exists for reviewing and identifying the license obligations for each Identified License &lt;t2/&gt;for the &lt;t3/&gt;various&lt;t4/&gt; use case&lt;t5/&gt;s&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T145637Z" creationid="BrunoGrasset" creationdate="20170725T145637Z">
+        <seg>S'assurer qu'il existe un processus pour revoir et identifer les obligations des licences pour les cas d'usage donnés pour chaque Licence Identifiée.</seg>
       </tuv>
     </tu>
     <tu>
