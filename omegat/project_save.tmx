@@ -6,10 +6,28 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>Assign individual(s) responsible for receiving external FOSS inquiries;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170725T133552Z" creationid="camille" creationdate="20170725T133552Z">
+        <seg>Attribuez à une ou plusieurs personne la responsabilité de traiter les demandes FOSS externes ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>G2: Assign Responsibility for Achieving C&lt;t0/&gt;ompliance</seg>
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170725T132649Z" creationid="camille" creationdate="20170725T132649Z">
         <seg>G2: Attribuer les responsabilités pour atteindre la &lt;t0/&gt;conformité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Faut-il garder la répétition entre guillemets ?
+</note>
+      <tuv lang="EN">
+        <seg>Identify&lt;t0/&gt; FOSS Liaison F&lt;t1/&gt;unction ("FOSS Liaison")&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170725T132825Z" creationid="camille" creationdate="20170725T132825Z">
+        <seg>Identifiez un rôle de &lt;t0/&gt; Correspondant FOSS&lt;t1/&gt;("Correspondant FOSS")&lt;t2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
