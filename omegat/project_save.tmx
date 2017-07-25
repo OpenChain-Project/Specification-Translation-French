@@ -96,6 +96,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Section 2 introduces definitions of key terms used throughout the specification.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brgr882" changedate="20170725T141428Z" creationid="brgr882" creationdate="20170725T141428Z">
+        <seg>La section 2 introduit les définitions et termes clés utilisés tout au long de la spécification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The OpenChain Initiative began in 2013 when a group of software supply chain open source practitioners observed two emerging patterns: 1) significant process similarities existed among organizations with mature open source compliance programs; and 2) there still remained a large number of organizations exchanging software with less developed programs.</seg>
       </tuv>
       <tuv lang="FR" changeid="brgr882" changedate="20170725T140800Z" creationid="brgr882" creationdate="20170725T140800Z">
@@ -120,10 +128,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The specification focuses on the “what” and “why” qualities of a compliance program as opposed to the “how” and “when” considerations.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brgr882" changedate="20170725T141224Z" creationid="brgr882" creationdate="20170725T141224Z">
+        <seg>La spécification se concentre sur les qualités des ‘quoi’ et ‘pourquoi’ d’un programme de conformité et non aux considérations des ‘comment’ et ‘quand’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The study group evolved into a &lt;t2/&gt;w&lt;t3/&gt;ork &lt;t4/&gt;g&lt;t5/&gt;roup, and in April 2016, formally organized as a Linux Foundation collaborative project&lt;t6/&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="brgr882" changedate="20170725T141100Z" creationid="brgr882" creationdate="20170725T141100Z">
         <seg>Le groupe d’étude a évolué en un groupe de travail, et en avril 2016, organisé formellement en tant que projet collaboratif de la Fondation Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This ensures a practical level of flexibility that enables different organizations to tailor their policies and processes to best fit their ob&lt;t4/&gt;jectives.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brgr882" changedate="20170725T141417Z" creationid="brgr882" creationdate="20170725T141417Z">
+        <seg>Ceci assure un niveau --réaliste-- de flexibilité qui permet aux différentes organisations d’adapter leurs politiques et processus pour mieux atteindre leurs objectifs.</seg>
       </tuv>
     </tu>
     <tu>
