@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenChain Specification</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170725T130754Z" creationid="camille" creationdate="20170725T130754Z">
+        <seg>Specifications OpenChain</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
