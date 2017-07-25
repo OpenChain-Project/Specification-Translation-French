@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>4.1         &lt;t0/&gt;Prepare the set of artifacts which represent the output of the &lt;t1/&gt;FOSS &lt;t2/&gt;management&lt;t3/&gt; program for each Supplied Software release.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T150953Z" creationid="BrunoGrasset" creationdate="20170725T150953Z">
+        <seg>4.1         Préparer l'ensemble des livrables qui représente la sortie du programme de gestion des FOSS pour chacune des versions du Logiciel Fourni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t1/&gt;The requirements represent a base level (minimum) set of requirements a program must satisfy to be considered OpenChain &lt;t2/&gt;Conforming&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="brgr882" changedate="20170725T141211Z" creationid="brgr882" creationdate="20170725T141211Z">
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170725T132649Z" creationid="camille" creationdate="20170725T132649Z">
         <seg>G2: Attribuer les responsabilités pour atteindre la &lt;t0/&gt;conformité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>G4: Deliver FOSS Content Documentation and A&lt;t0/&gt;rtifacts</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T150754Z" creationid="BrunoGrasset" creationdate="20170725T150754Z">
+        <seg>G4: Fourniture des Documentations et Livrables FOSS</seg>
       </tuv>
     </tu>
     <tu>
