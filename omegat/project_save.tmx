@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t5/&gt;The intent is to ensure a core base level set of topics are covered but a&lt;t6/&gt; typical&lt;t7/&gt; training program would likely be more comprehensive than what is required here.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T144953Z" creationid="BrunoGrasset" creationdate="20170725T144953Z">
+        <seg>L'intention est d'assurer qu'un ensemble clé de sujets de base est couvert mais qu'un programme typique de formation serait succeptible d'être plus complet que ce qui est réquit ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t7/&gt;Depending on the organization, t&lt;t8/&gt;hat&lt;t9/&gt; may&lt;t10/&gt; include (but &lt;t11/&gt;is &lt;t12/&gt;not limited to) software developers, release engineers, quality engineer&lt;t13/&gt;s&lt;t14/&gt;, &lt;t15/&gt;product &lt;t16/&gt;marketing and &lt;t17/&gt;product &lt;t18/&gt;management.</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142020Z" creationid="BrunoGrasset" creationdate="20170725T142020Z">
