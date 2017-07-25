@@ -32,8 +32,16 @@
       <tuv lang="EN">
         <seg>1.2.2&lt;t0/&gt; Method of tracking the completion of the &lt;t1/&gt;training &lt;t2/&gt;f&lt;t3/&gt;or all Software Staff&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T144425Z" creationid="BrunoGrasset" creationdate="20170725T144425Z">
-        <seg>1.2.2 Méthode de suivi de l'accomplissement de la formation par l'Equipe Logiciel.</seg>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T144619Z" creationid="BrunoGrasset" creationdate="20170725T144425Z">
+        <seg>1.2.2 Méthode de suivi de la participation à la formation par l'Equipe Logiciel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1.2.3&lt;t0/&gt; At least 85% of &lt;t1/&gt;the&lt;t2/&gt; Software Staff are current, as per &lt;t3/&gt;the &lt;t4/&gt;definition in above section.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T144529Z" creationid="BrunoGrasset" creationdate="20170725T144529Z">
+        <seg>1.2.3 Au moins 85% de l'Equipe Logiciel a une formation au FOSS valide, telle que défini ci-dessus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,6 +138,14 @@
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142626Z" creationid="BrunoGrasset" creationdate="20170725T142626Z">
         <seg>S'assurer que l'Equipe Logiciel ait été informée de l'existence d'une politique FOSS. Bien qu'aucune exigence ne soit fournie ici sur ce que la politique devrait contenir, d'autres sections peuvent définir des exigences sur son contenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ensure the Software Staff have recently attended FOSS training and that &lt;t0/&gt;a&lt;t1/&gt; &lt;t2/&gt;core set of &lt;t3/&gt;relevant FOSS &lt;t4/&gt;topics are covered.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T144657Z" creationid="BrunoGrasset" creationdate="20170725T144608Z">
+        <seg>S'assurer que l'Equipe Logiciel a récemment participé à la formation FOSS et qu'un ensemble clé des sujets liés au FOSS est couvert.</seg>
       </tuv>
     </tu>
     <tu>
