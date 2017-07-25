@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FOSS project &lt;t0/&gt;licensing models;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T143232Z" creationid="BrunoGrasset" creationdate="20170725T143232Z">
+        <seg>Les modèles de licences de projet FOSS ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>FOSS&lt;t0/&gt; &lt;t1/&gt;(Free and Open Source Software) &lt;t2/&gt;-&lt;t3/&gt; software subject to &lt;t4/&gt;one or more licenses that meet&lt;t5/&gt; the Open Source Definition published by the Open Sour&lt;t6/&gt;ce Initiative (OpenSource.org) or the Free Software Definition (published by the Free Software Foundation) or similar license.</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T141913Z" creationid="BrunoGrasset" creationdate="20170725T141913Z">
@@ -240,6 +248,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Process for identifying, recording and/or tracking of FOSS components contained in Supplied Software&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T143551Z" creationid="BrunoGrasset" creationdate="20170725T143551Z">
+        <seg>Les processus pour identifier, enregistrer et tracer les composants FOSS contenus dans le Logiciel Fourni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Publicly identify &lt;t0/&gt;a &lt;t1/&gt;means &lt;t2/&gt;by which one can contact&lt;t3/&gt; the FOSS Liaison.</seg>
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170725T140218Z" creationid="camille" creationdate="20170725T140218Z">
@@ -284,6 +300,14 @@
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T141610Z" creationid="BrunoGrasset" creationdate="20170725T141610Z">
         <seg>La section 3 présentes les exigences de la spécification avec pour chacune une liste d’un ou plusieurs --Artéfacts-- de Vérification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Software Staff roles and responsibilities pertain&lt;t0/&gt;ing&lt;t1/&gt; to FOSS compliance specifically and the FOSS policy in general&lt;t2/&gt;;&lt;t3/&gt; and</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T143407Z" creationid="BrunoGrasset" creationdate="20170725T143407Z">
+        <seg>Les rôles et responsabilités de l'Equipe Logiciel vis-à-vis de la politique FOSS en général et de la conformité FOSS en particulier ; et</seg>
       </tuv>
     </tu>
     <tu>
