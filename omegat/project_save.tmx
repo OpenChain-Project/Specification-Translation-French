@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>G2: Assign Responsibility for Achieving C&lt;t0/&gt;ompliance</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170725T132649Z" creationid="camille" creationdate="20170725T132649Z">
+        <seg>G2: Attribuer les responsabilités pour atteindre la &lt;t0/&gt;conformité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OpenChain Specification</seg>
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170725T130754Z" creationid="camille" creationdate="20170725T130754Z">
