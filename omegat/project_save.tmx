@@ -56,6 +56,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OpenChain Initiative began in 2013 when a group of software supply chain open source practitioners observed two emerging patterns: 1) significant process similarities existed among organizations with mature open source compliance programs; and 2) there still remained a large number of organizations exchanging software with less developed programs.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brgr882" changedate="20170725T140800Z" creationid="brgr882" creationdate="20170725T140800Z">
+        <seg>L’Initiative OpenChain a débuté en 2013 quand un groupe de professionnels de l'open source a observé deux tendances émergentes : 1) des similarités significatives existent entre les processus d'organisations ayant un programme de conformité open source mâture ; et 2) il existe encore un grand nombre d’organisations échangeant du logiciel ayant des programmes moins développés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Verification Artifact&lt;t0/&gt;(&lt;t1/&gt;s&lt;t2/&gt;)&lt;t3/&gt;:</seg>
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170725T140243Z" creationid="camille" creationdate="20170725T140243Z">
