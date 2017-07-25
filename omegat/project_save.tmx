@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ensure the complete collection of Compliance Artifacts&lt;t0/&gt; &lt;t1/&gt;accompany the Supplied Software as &lt;t2/&gt;required by the Identified Licenses that govern the Supplied Software along with other reports created as part of the FOSS review process.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T152228Z" creationid="BrunoGrasset" creationdate="20170725T151958Z">
+        <seg>S'assurer qu'une collection complète des Livrables de Conformité accompagne le Logiciel Fourni comme requis par les Licences Identifiées qui gouvernent le Logiciel Fourni ainsi que les rapports créés dans le cadre du processus de revue des FOSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>FOSS Liaison must make commercially reasonable efforts to respond to FOSS compliance inquiries as appropriate; and</seg>
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170725T135045Z" creationid="camille" creationdate="20170725T135045Z">
