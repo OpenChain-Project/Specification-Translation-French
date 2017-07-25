@@ -86,6 +86,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A documented procedure exists to review and document the obligations, restrictions and rights granted by each Identified License governing the Supplied Software.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T145316Z" creationid="BrunoGrasset" creationdate="20170725T145316Z">
+        <seg>Il existe une procédure documentée pour revoir et renseigner les obligations, restrictions et droits offerts A documented procedure exists to review and document the obligations, restrictions and rights granted by each Identified License governing the Supplied Software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A process exists for reviewing &lt;t0/&gt;the &lt;t1/&gt;Identified Licenses to determine the obligations, restrictions and rights granted by &lt;t2/&gt;each&lt;t3/&gt; license.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T145154Z" creationid="BrunoGrasset" creationdate="20170725T145054Z">
+        <seg>Il existe un processus pour revoir les Licences Identifiées pour déterminer leurs obligations, restrictions et droits offerts par chacune des licences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A study group was formed to consider whether a standard program specification could be created that would: &lt;t0/&gt;i&lt;t1/&gt;) facilitate greater quality and consistency of open source compliance information being shared across the industry; and ii) decrease the high transaction costs associated with open source resulting from compliance rework.</seg>
       </tuv>
       <tuv lang="FR" changeid="brgr882" changedate="20170725T141054Z" creationid="brgr882" creationdate="20170725T141054Z">
@@ -452,6 +468,14 @@
       </tuv>
       <tuv lang="FR" changeid="brgr882" changedate="20170725T141417Z" creationid="brgr882" creationdate="20170725T141417Z">
         <seg>Ceci assure un niveau --réaliste-- de flexibilité qui permet aux différentes organisations d’adapter leurs politiques et processus pour mieux atteindre leurs objectifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Verification Artifact(s)&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T145116Z" creationid="BrunoGrasset" creationdate="20170725T145116Z">
+        <seg>Point(s) de vérification :</seg>
       </tuv>
     </tu>
     <tu>
