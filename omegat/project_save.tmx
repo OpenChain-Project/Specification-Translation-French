@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copies of the Compliance Artifacts of the Supplied Software &lt;t0/&gt;release&lt;t1/&gt; &lt;t2/&gt;are archived and easily retrievable, and the archive is planned to exist for at least as long as the Supplied Software is offered or as required by the Identified Licenses (whichever is longer).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T151942Z" creationid="BrunoGrasset" creationdate="20170725T151942Z">
+        <seg>Des copies des Livrables de Conformité de la version du Logiciel Fourni sont archivées et facilement accessibles, et une archive est plannifiée pour être disponible tant que le Logiciel Fourni est offert ou que ceci est requis par les Licences Identifiées (le plus long des deux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Definitions</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T141857Z" creationid="BrunoGrasset" creationdate="20170725T141857Z">
