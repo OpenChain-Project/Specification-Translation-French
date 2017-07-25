@@ -96,8 +96,8 @@
       <tuv lang="EN">
         <seg>A documented procedure exists &lt;t0/&gt;that&lt;t1/&gt; ensures the Compliance Artifacts are &lt;t2/&gt;prepared and distributed&lt;t3/&gt; with Supplied Software &lt;t4/&gt;release&lt;t5/&gt; &lt;t6/&gt;as required by the Identified Licenses.</seg>
       </tuv>
-      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T151322Z" creationid="BrunoGrasset" creationdate="20170725T151322Z">
-        <seg>Il existe une procédure documentée qui assure que les Livrables de Conformité A documented procedure exists &lt;t0/&gt;that&lt;t1/&gt; ensures the Compliance Artifacts are &lt;t2/&gt;prepared and distributed&lt;t3/&gt; with Supplied Software &lt;t4/&gt;release&lt;t5/&gt; &lt;t6/&gt;as required by the Identified Licenses.</seg>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T151616Z" creationid="BrunoGrasset" creationdate="20170725T151322Z">
+        <seg>Il existe une procédure documentée qui assure que les Livrables de Conformité sont préparés et distribués avec les versions du Logiciel Fourni comme requis par les Licences Identifiées.</seg>
       </tuv>
     </tu>
     <tu>
