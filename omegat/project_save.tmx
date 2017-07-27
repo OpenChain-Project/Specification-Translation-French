@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2.1&lt;t0/&gt;.2&lt;t1/&gt; &lt;t2/&gt;A&lt;t3/&gt;n internal&lt;t4/&gt; document&lt;t5/&gt;ed&lt;t6/&gt; &lt;t7/&gt;procedure &lt;t8/&gt;exists that assigns responsibility for receiving FOSS compliance inquiries&lt;t9/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T142251Z" creationid="camille" creationdate="20170727T142251Z">
+        <seg>2.1&lt;t0/&gt;.2&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt;Il existe une procédure interne documentée pour attribuer la responsabilité de traiter les demandes de conformité FOSS.&lt;t9/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>4.1         &lt;t0/&gt;Prepare the set of artifacts which represent the output of the &lt;t1/&gt;FOSS &lt;t2/&gt;management&lt;t3/&gt; program for each Supplied Software release.</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T150953Z" creationid="BrunoGrasset" creationdate="20170725T150953Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170727T140737Z" creationid="camille" creationdate="20170727T140737Z">
         <seg>&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt; &lt;t13/&gt;&lt;t14/&gt;Assurez-vous que l'entité a suffisamment pris en compte la question de la contribution aux projets FOSS publics et d’élaborer une politique à ce sujet.  Cette politique de contribution FOSS peut faire partie de la politique FOSS générale ou constituer un document distinct. Pour les cas où les contributions sont systématiquement interdites, une politique doit expliciter cette position.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ensure &lt;t0/&gt;there is a reasonable way for third parties to contact the organization &lt;t1/&gt;with regard to&lt;t2/&gt; FOSS compliance inquiries &lt;t3/&gt;and that this responsibility has been effectively assigned&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T142631Z" creationid="camille" creationdate="20170727T142631Z">
+        <seg>Assurez-vous qu'il&lt;t0/&gt; soit raisonablement facile à un tiers de contacter l'entité pour lui adresser ses demandes relatives à la conformté FOSS&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;et que la responsabilité de les traiter a bien été attribuée.&lt;t4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
