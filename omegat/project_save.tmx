@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Assign individual(s) responsible for managing &lt;t0/&gt;internal &lt;t1/&gt;FOSS compliance&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T145018Z" creationid="camille" creationdate="20170727T145018Z">
+        <seg>Attribuez à une ou plusieurs personnes la responsabilité de la gestion &lt;t0/&gt;de la conformité FOSS en interne&lt;t1/&gt;&lt;t2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Assign individual(s) responsible for receiving external FOSS inquiries;</seg>
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170725T133552Z" creationid="camille" creationdate="20170725T133552Z">
