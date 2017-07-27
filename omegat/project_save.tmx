@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>5&lt;t0/&gt;.2&lt;t1/&gt;.1&lt;t2/&gt; &lt;t3/&gt;P&lt;t4/&gt;rovided the FOSS c&lt;t5/&gt;o&lt;t6/&gt;ntribution p&lt;t7/&gt;olicy permits contributions, a document&lt;t8/&gt;ed&lt;t9/&gt; procedure exists that &lt;t10/&gt;governs&lt;t11/&gt; &lt;t12/&gt;FOSS c&lt;t13/&gt;ontribution&lt;t14/&gt;s&lt;t15/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T141203Z" creationid="camille" creationdate="20170727T141203Z">
+        <seg>5&lt;t0/&gt;.2&lt;t1/&gt;.1&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;Si la politique de contribution FOSS autorise les contributions, elle doit s'accompagner de processus documentés précisant les modalités de celles-ci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0/&gt;The policy must be internally communicated&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170727T135055Z" creationid="camille" creationdate="20170727T135055Z">
