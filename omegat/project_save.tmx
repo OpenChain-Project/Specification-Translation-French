@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FOSS compliance management activity&lt;t0/&gt; is sufficient&lt;t1/&gt;ly&lt;t2/&gt; resourced:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T145545Z" creationid="camille" creationdate="20170727T145545Z">
+        <seg>L'activité de conformité FOSS doit disposer de ressources suffisantes &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt; :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>FOSS l&lt;t0/&gt;icensing concepts (including the concept&lt;t1/&gt;s&lt;t2/&gt; of permissive and &lt;t3/&gt;copyleft&lt;t4/&gt; licenses)&lt;t5/&gt;;</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T143213Z" creationid="BrunoGrasset" creationdate="20170725T143213Z">
@@ -562,8 +570,8 @@
       <tuv lang="EN">
         <seg>T&lt;t3/&gt;he FOSS Compliance r&lt;t4/&gt;ole and the FOSS Lia&lt;t5/&gt;ison &lt;t6/&gt;may&lt;t7/&gt; be the same individual.</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170727T145231Z" creationid="camille" creationdate="20170727T145231Z">
-        <seg>Les rôle de T&lt;t3/&gt;he FOSS Compliance r&lt;t4/&gt;ole and the FOSS Lia&lt;t5/&gt;ison &lt;t6/&gt;may&lt;t7/&gt; be the same individual.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170727T145418Z" creationid="camille" creationdate="20170727T145231Z">
+        <seg>Les rôles de responsable de la conformité &lt;t3/&gt;FOSS&lt;t4/&gt; et celui de Correspondant FOSS peuvent être assumés par la même personne&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -644,6 +652,14 @@
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T151244Z" creationid="BrunoGrasset" creationdate="20170725T151244Z">
         <seg>Cet ensemble correspond aux Livrables de Conformité qui peuvent inclure (mais ne sont pas limités à) un ou plusieurs des items suivants : code source, notices d'attribution, notices de droits d'auteur, copie des licences, notifications de modifications, offres écrites, documents SPDX et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Time to perform the role &lt;t0/&gt;has been&lt;t1/&gt; &lt;t2/&gt;allocated&lt;t3/&gt;; and</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T150531Z" creationid="camille" creationdate="20170727T150531Z">
+        <seg>Suffisamment de temps a été alloué pour effectuer les tâches du rôle &lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;;</seg>
       </tuv>
     </tu>
     <tu>
