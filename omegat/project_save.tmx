@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ensure an organization &lt;t0/&gt;has a documented &lt;t1/&gt;process&lt;t2/&gt; &lt;t3/&gt;for how the organization publicly contributes FOSS.&lt;t4/&gt; A policy may exist such that contributions are not permitted at all.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T141411Z" creationid="camille" creationdate="20170727T141411Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;Assurez-vous que l'entité dispose de processus documentés pour contribuer aux projets FOSS publics.&lt;t4/&gt; Il se peut que la politique en la matière soit d'interdire toute contribution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ensure steps were taken to &lt;t0/&gt;create,&lt;t1/&gt; record and make &lt;t2/&gt;Software Staff &lt;t3/&gt;aware &lt;t4/&gt;of &lt;t5/&gt;the existence of a FOSS &lt;t6/&gt;policy.&lt;t7/&gt; Although no requirements are provide&lt;t8/&gt;d&lt;t9/&gt; here on what should be included in the policy, &lt;t10/&gt;other sections may impose requirements on the policy&lt;t11/&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142626Z" creationid="BrunoGrasset" creationdate="20170725T142626Z">
