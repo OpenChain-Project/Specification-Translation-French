@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ensure &lt;t0/&gt;an organization has given &lt;t1/&gt;reasonable &lt;t2/&gt;consideration &lt;t3/&gt;to developing a policy with respect to publicly contributing&lt;t4/&gt; &lt;t5/&gt;to &lt;t6/&gt;FOSS&lt;t7/&gt;.&lt;t8/&gt; &lt;t9/&gt; The FOSS contribution policy can be made a part of the overall FOSS policy of an organization or be its own separate policy.&lt;t10/&gt; In the situation where contributions are not &lt;t11/&gt;permitted&lt;t12/&gt; at all, a policy should exist making that &lt;t13/&gt;position&lt;t14/&gt; clear.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T140737Z" creationid="camille" creationdate="20170727T140737Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt; &lt;t13/&gt;&lt;t14/&gt;Assurez-vous que l'entité a suffisamment pris en compte la question de la contribution aux projets FOSS publics et d’élaborer une politique à ce sujet.  Cette politique de contribution FOSS peut faire partie de la politique FOSS générale ou constituer un document distinct. Pour les cas où les contributions sont systématiquement interdites, une politique doit expliciter cette position.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ensure steps were taken to &lt;t0/&gt;create,&lt;t1/&gt; record and make &lt;t2/&gt;Software Staff &lt;t3/&gt;aware &lt;t4/&gt;of &lt;t5/&gt;the existence of a FOSS &lt;t6/&gt;policy.&lt;t7/&gt; Although no requirements are provide&lt;t8/&gt;d&lt;t9/&gt; here on what should be included in the policy, &lt;t10/&gt;other sections may impose requirements on the policy&lt;t11/&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142626Z" creationid="BrunoGrasset" creationdate="20170725T142626Z">
@@ -332,6 +340,14 @@
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T141851Z" creationid="BrunoGrasset" creationdate="20170725T141851Z">
         <seg>Si toutes les exigences ont été satisfaites pour un programme donné, il sera considéré Conforme à OpenChain en accord avec la version 1.1 de cette spécification. Les Artéfacts de Vérification ne sont pas destinés à être publics, mais pourraient être fournis sous --Accord de Confidentialité-- ou sur demande privée de l'organisation OpenChain pour valider la conformité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If an organization permits contributions to FOSS projects then a process must &lt;t0/&gt;exist&lt;t1/&gt; &lt;t2/&gt;that&lt;t3/&gt; &lt;t4/&gt;implements the&lt;t5/&gt; FOSS contribution policy outlined in Section 5.1&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T140848Z" creationid="camille" creationdate="20170727T140848Z">
+        <seg>Si l'entité autorise les contributions aux projets FOSS, elle doit mettre en place les processus pour implémenter la politique de contribution FOSS mentionnée à la Section 5.1&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
