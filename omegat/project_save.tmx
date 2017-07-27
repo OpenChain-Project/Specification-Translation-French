@@ -222,10 +222,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Assign responsibilities&lt;t0/&gt; to develop and maintain FOSS compliance policy and processes&lt;t1/&gt;;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T151007Z" creationid="camille" creationdate="20170727T151007Z">
+        <seg>Attriuez les responabilités pour définir et tenir à jour la politque et les processus de conformité FOSS&lt;t0/&gt;&lt;t1/&gt; ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Basics &lt;t0/&gt;of &lt;t1/&gt;Intellectual Property&lt;t2/&gt; law pertain&lt;t3/&gt;ing&lt;t4/&gt; to FOSS and FOSS licenses&lt;t5/&gt;;</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T143123Z" creationid="BrunoGrasset" creationdate="20170725T143052Z">
         <seg>Les bases de la Propriété Intellectuelle en relation avec le FOSS et les licences FOSS ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commercially reasonable budget &lt;t0/&gt;has been&lt;t1/&gt; allocated&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T150621Z" creationid="camille" creationdate="20170727T150621Z">
+        <seg>Un budget raisonnable du point de vue commercial lui est consacré &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
