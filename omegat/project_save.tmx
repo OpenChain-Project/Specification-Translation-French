@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2.2.1 &lt;t0/&gt;Name of persons, group &lt;t1/&gt;or function in FOSS Compliance r&lt;t2/&gt;ole&lt;t3/&gt;(s)&lt;t4/&gt; &lt;t5/&gt;internally &lt;t6/&gt;identified&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T155302Z" creationid="camille" creationdate="20170727T155302Z">
+        <seg>2.2.1 &lt;t0/&gt;Il existe une liste de personnes en charge de la gestion de la conformité &lt;t1/&gt;FOSS &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt; en interne.&lt;t6/&gt;&lt;t7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>4.1         &lt;t0/&gt;Prepare the set of artifacts which represent the output of the &lt;t1/&gt;FOSS &lt;t2/&gt;management&lt;t3/&gt; program for each Supplied Software release.</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T150953Z" creationid="BrunoGrasset" creationdate="20170725T150953Z">
@@ -162,6 +170,14 @@
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T145325Z" creationid="BrunoGrasset" creationdate="20170725T145054Z">
         <seg>Il existe un processus pour revoir les Licences Identifiées pour déterminer leurs obligations, restrictions et droits accordés par chacune des licences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A process exists&lt;t0/&gt; for &lt;t1/&gt;the &lt;t2/&gt;resolution of FOSS compliance issues&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T151525Z" creationid="camille" creationdate="20170727T151525Z">
+        <seg>Un processus est en place pour résoudre les problèmes de &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;conformité FOSS&lt;t3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
