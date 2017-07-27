@@ -325,6 +325,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Dans l'original, je ne comprend pas la motivation du "certain"</note>
+      <tuv lang="EN">
+        <seg>Ensure certain FOSS responsibilities have been effectively assigned.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T160126Z" creationid="camille" creationdate="20170727T160126Z">
+        <seg>Assurez-vous que les responsabilités pour la gestion de la conformité FOSS ont bien été attribuées.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Ensure steps were taken to &lt;t0/&gt;create,&lt;t1/&gt; record and make &lt;t2/&gt;Software Staff &lt;t3/&gt;aware &lt;t4/&gt;of &lt;t5/&gt;the existence of a FOSS &lt;t6/&gt;policy.&lt;t7/&gt; Although no requirements are provide&lt;t8/&gt;d&lt;t9/&gt; here on what should be included in the policy, &lt;t10/&gt;other sections may impose requirements on the policy&lt;t11/&gt;.</seg>
       </tuv>
