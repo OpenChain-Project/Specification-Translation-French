@@ -768,6 +768,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>It seems there is an inconsistancy between "Ensure" and  "To ensure" in the different "Rationale" parts</note>
+      <tuv lang="EN">
+        <seg>To ensure a &lt;t0/&gt;process&lt;t1/&gt; exists for creating and managing a FOSS component bill of materials used to construct the Supplied Software.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T164845Z" creationid="camille" creationdate="20170727T164845Z">
+        <seg>Asssurez-vous qu'il existe une procédure pour &lt;t0/&gt;process&lt;t1/&gt;créer et gérer la liste des composants FOSS ayant servi à la réalisation du Logiciel fourni.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>To ensure a &lt;t0/&gt;process&lt;t1/&gt; exists for reviewing and identifying the license obligations for each Identified License &lt;t2/&gt;for the &lt;t3/&gt;various&lt;t4/&gt; use case&lt;t5/&gt;s&lt;t6/&gt;.</seg>
       </tuv>
