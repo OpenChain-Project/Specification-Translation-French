@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.&lt;t0/&gt;1        &lt;t1/&gt;A process exists for creating and managing a FOSS component bill of materials which includes each component (and its Identified License&lt;t2/&gt;s&lt;t3/&gt;) in a Supplied Software release&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T162843Z" creationid="camille" creationdate="20170727T162843Z">
+        <seg>3.&lt;t0/&gt;1        &lt;t1/&gt;Il existe une procédure pour créer et gérer une liste exhaustive des composants FOSS et de leurs licences associées ("bill of materials") pour chaque version du Logiciel Fourni.&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>4.1         &lt;t0/&gt;Prepare the set of artifacts which represent the output of the &lt;t1/&gt;FOSS &lt;t2/&gt;management&lt;t3/&gt; program for each Supplied Software release.</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T150953Z" creationid="BrunoGrasset" creationdate="20170725T150953Z">
