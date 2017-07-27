@@ -54,6 +54,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>5.1.1&lt;t0/&gt; &lt;t1/&gt;A documented &lt;t2/&gt;FOSS contribution policy exists;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T135154Z" creationid="camille" creationdate="20170727T135154Z">
+        <seg>5.1.1&lt;t0/&gt; &lt;t1/&gt;Il existe une politique de contribution FOSS documentée ;&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.1.2&lt;t0/&gt; &lt;t1/&gt;A document&lt;t2/&gt;ed&lt;t3/&gt; procedure exists&lt;t4/&gt; that makes all Software Staff aware of the existence of the FOSS contribution policy (e.g., via training, internal wiki, or other practical communication method)&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T135420Z" creationid="camille" creationdate="20170727T135420Z">
+        <seg>5.1.2&lt;t0/&gt; &lt;t1/&gt;Une procédure documentée est en place pour porter l'existence de cette politique de contribution FOSS à la connaissance de toute l'Équipe logiciel (ex. : via des formations, un wiki interne ou tout autre moyen adapté)&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0/&gt;The policy must be internally communicated&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T135055Z" creationid="camille" creationdate="20170727T135055Z">
+        <seg>&lt;t0/&gt;Cette politique doit être communiquée en interne.&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t1/&gt;The requirements represent a base level (minimum) set of requirements a program must satisfy to be considered OpenChain &lt;t2/&gt;Conforming&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="brgr882" changedate="20170725T141211Z" creationid="brgr882" creationdate="20170725T141211Z">
