@@ -399,6 +399,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FOSS component records exist for each Supplied Software release which demonstrates the documented procedure was properly followed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T164156Z" creationid="camille" creationdate="20170727T164156Z">
+        <seg>Il existe des documents relatifs aux composants FOSS pour chacune des version publiée du Logiciel fourni, montrant que la procédure documentée a été suivie correctement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>FOSS l&lt;t0/&gt;icensing concepts (including the concept&lt;t1/&gt;s&lt;t2/&gt; of permissive and &lt;t3/&gt;copyleft&lt;t4/&gt; licenses)&lt;t5/&gt;;</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T143213Z" creationid="BrunoGrasset" creationdate="20170725T143213Z">
