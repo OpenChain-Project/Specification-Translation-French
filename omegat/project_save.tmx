@@ -70,6 +70,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2.2.2 &lt;t0/&gt;Identify source of legal expertis&lt;t1/&gt;e available to FOSS Compliance r&lt;t2/&gt;ole&lt;t3/&gt;(s)&lt;t4/&gt; which could be internal or external.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T155523Z" creationid="camille" creationdate="20170727T155523Z">
+        <seg>2.2.2 &lt;t0/&gt;L'expertise juridique, interne ou externe,  accessible&lt;t1/&gt;aux responsable de la conformité FOSS&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;, a été identifiée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2.2.3&lt;t0/&gt; &lt;t1/&gt;A document&lt;t2/&gt;ed&lt;t3/&gt; procedure &lt;t4/&gt;exists that assigns &lt;t5/&gt;internal &lt;t6/&gt;responsibilities&lt;t7/&gt; for FOSS compliance&lt;t8/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T155718Z" creationid="camille" creationdate="20170727T155718Z">
+        <seg>2.2.3&lt;t0/&gt; &lt;t1/&gt;Il existe une procédure documentée pour &lt;t2/&gt;&lt;t3/&gt;&lt;t5/&gt;attribuer les responsabilités internes pour la gestion de la conformité FOSS&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>4.1         &lt;t0/&gt;Prepare the set of artifacts which represent the output of the &lt;t1/&gt;FOSS &lt;t2/&gt;management&lt;t3/&gt; program for each Supplied Software release.</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T150953Z" creationid="BrunoGrasset" creationdate="20170725T150953Z">
