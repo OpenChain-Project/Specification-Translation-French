@@ -346,8 +346,8 @@
       <tuv lang="EN">
         <seg>Identify&lt;t0/&gt; FOSS Liaison F&lt;t1/&gt;unction ("FOSS Liaison")&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170725T132825Z" creationid="camille" creationdate="20170725T132825Z">
-        <seg>Identifiez un rôle de &lt;t0/&gt; Correspondant FOSS&lt;t1/&gt;("Correspondant FOSS")&lt;t2/&gt;.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170727T141722Z" creationid="camille" creationdate="20170725T132825Z">
+        <seg>Créez un rôle de &lt;t0/&gt; Correspondant FOSS&lt;t1/&gt;("Correspondant FOSS")&lt;t2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -372,6 +372,14 @@
       </tuv>
       <tuv lang="FR" changeid="brgr882" changedate="20170725T141158Z" creationid="brgr882" creationdate="20170725T141158Z">
         <seg>En accord avec la Vision et la Mission, cette spécification définit un jeu d’exigences qui, si satisfaites, améliorera significativement la probabilité qu’un programme de conformité open source ait achevé un niveau suffisant de qualité, cohérence et complétude ; bien qu’un programme qui satisfasse toutes les exigences de la spécification ne garantisse pas une conformité complète.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In that situation it is understood that no &lt;t5/&gt;procedure&lt;t6/&gt; may exist and this requirement would &lt;t7/&gt;nevertheless &lt;t8/&gt;be met.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T141441Z" creationid="camille" creationdate="20170727T141441Z">
+        <seg>Dans de tels cas, l'absence de processus dédiés est légitime et la présente exigence sera considérée comme respectée.&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
