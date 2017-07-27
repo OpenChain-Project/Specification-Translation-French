@@ -423,6 +423,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>G3: Review and Approve FOSS C&lt;t0/&gt;ontent</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T161827Z" creationid="camille" creationdate="20170727T161827Z">
+        <seg>G3: Contrôler et valider le contenu FOSS&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>G4: Deliver FOSS Content Documentation and A&lt;t0/&gt;rtifacts</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T150754Z" creationid="BrunoGrasset" creationdate="20170725T150754Z">
