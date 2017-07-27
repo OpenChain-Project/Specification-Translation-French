@@ -376,8 +376,8 @@
       <tuv lang="EN">
         <seg>Identify&lt;t0/&gt; &lt;t1/&gt;Internal &lt;t2/&gt;FOSS Compliance Role&lt;t3/&gt;(s)&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170727T144105Z" creationid="camille" creationdate="20170727T144105Z">
-        <seg>Créez un ou des rôles de &lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt;conformité FOSS interne&lt;t3/&gt;&lt;t4/&gt;.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170727T145316Z" creationid="camille" creationdate="20170727T144105Z">
+        <seg>Créez un rôle de &lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt;responsable de la conformité FOSS interne&lt;t3/&gt;&lt;t4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -556,6 +556,14 @@
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142112Z" creationid="BrunoGrasset" creationdate="20170725T142112Z">
         <seg>Logiciel Fourni - logiciel qu'une organisation fournit à des tierces parties (i.e., personnes morales et/ou physiques).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T&lt;t3/&gt;he FOSS Compliance r&lt;t4/&gt;ole and the FOSS Lia&lt;t5/&gt;ison &lt;t6/&gt;may&lt;t7/&gt; be the same individual.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T145231Z" creationid="camille" creationdate="20170727T145231Z">
+        <seg>Les rôle de T&lt;t3/&gt;he FOSS Compliance r&lt;t4/&gt;ole and the FOSS Lia&lt;t5/&gt;ison &lt;t6/&gt;may&lt;t7/&gt; be the same individual.</seg>
       </tuv>
     </tu>
     <tu>
