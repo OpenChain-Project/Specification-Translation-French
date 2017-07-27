@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2.1&lt;t0/&gt;.1&lt;t1/&gt; &lt;t2/&gt;FOSS Liaison function is publicly identified (&lt;t3/&gt;e.g., &lt;t4/&gt;via a published contact email address, or the Linux Foundation's Open Compliance Directory)&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T142124Z" creationid="camille" creationdate="20170727T142124Z">
+        <seg>2.1&lt;t0/&gt;.1&lt;t1/&gt; &lt;t2/&gt;Le correspondant FOSS est identifiable publiquement (&lt;t3/&gt;ex.: &lt;t4/&gt;par une adresse email de contact publique ou via l'annuaire Open Compliance Directory de la Linux Foundation)&lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>4.1         &lt;t0/&gt;Prepare the set of artifacts which represent the output of the &lt;t1/&gt;FOSS &lt;t2/&gt;management&lt;t3/&gt; program for each Supplied Software release.</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T150953Z" creationid="BrunoGrasset" creationdate="20170725T150953Z">
