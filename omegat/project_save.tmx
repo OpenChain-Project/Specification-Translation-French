@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2.2.4&lt;t0/&gt; &lt;t1/&gt;A &lt;t2/&gt;document&lt;t3/&gt;ed&lt;t4/&gt; &lt;t5/&gt;procedure &lt;t6/&gt;exists &lt;t7/&gt;for handling &lt;t8/&gt;the &lt;t9/&gt;review and remediation of non-compliant cases&lt;t10/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T155914Z" creationid="camille" creationdate="20170727T155914Z">
+        <seg>2.2.4&lt;t0/&gt; &lt;t1/&gt;Il existe une procédure documentée &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;pour la vérification de la conformité et le traitement des cas de non-conformité&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>4.1         &lt;t0/&gt;Prepare the set of artifacts which represent the output of the &lt;t1/&gt;FOSS &lt;t2/&gt;management&lt;t3/&gt; program for each Supplied Software release.</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T150953Z" creationid="BrunoGrasset" creationdate="20170725T150953Z">
