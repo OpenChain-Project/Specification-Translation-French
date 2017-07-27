@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A documented procedure exists &lt;t0/&gt;for &lt;t1/&gt;identifying&lt;t2/&gt;, &lt;t3/&gt;tracking &lt;t4/&gt;and archiving &lt;t5/&gt;information about the collection of FOSS components from which a Supplied Software release is comprised.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T163545Z" creationid="camille" creationdate="20170727T163545Z">
+        <seg>Il existe une procédure documentée pour &lt;t0/&gt;&lt;t1/&gt;identifier, tracer et archiver les informations sur l'ensemble des composants FOSS inclus dans chaque version publiée du Logiciel fourni.&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A documented procedure exists &lt;t0/&gt;that&lt;t1/&gt; ensures the Compliance Artifacts are &lt;t2/&gt;prepared and distributed&lt;t3/&gt; with Supplied Software &lt;t4/&gt;release&lt;t5/&gt; &lt;t6/&gt;as required by the Identified Licenses.</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T151616Z" creationid="BrunoGrasset" creationdate="20170725T151322Z">
