@@ -360,8 +360,8 @@
       <tuv lang="EN">
         <seg>Because OpenChain functions as an open source project translations are &lt;t2/&gt;driven by those willing to contribute their time &lt;t3/&gt;and expertise &lt;t4/&gt;to perform translations under the terms of the CC-BY 4.0 license and the project’s translation policy.</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170731T145100Z" creationid="camille" creationdate="20170731T145100Z">
-        <seg>OpenChain fonctionne comme un projet Open Source : les traductions sont assurées par des volontaires &lt;t2/&gt;souhaitant y consacrer leur temps et leur expertise&lt;t3/&gt;&lt;t4/&gt;et placer le résultat sous licence CC-BY 4.0, selon la politique de traduction du projet.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170731T151715Z" creationid="camille" creationdate="20170731T145100Z">
+        <seg>OpenChain fonctionne comme un projet Open Source : les traductions sont assurées par des volontaires &lt;t2/&gt;souhaitant y consacrer leur temps et leur expertise, &lt;t3/&gt;&lt;t4/&gt;et placer le résultat sous licence CC-BY 4.0, selon la politique de traduction du projet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -933,8 +933,8 @@
       <tuv lang="EN">
         <seg>To facilitate global adoption we welcome efforts &lt;t0/&gt;to &lt;t1/&gt;translate the specification into multiple languages.</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170731T144803Z" creationid="camille" creationdate="20170731T144803Z">
-        <seg>Afin de faciliter l'adoption d'Open Chain au niveau modial, nous encourageons &lt;t0/&gt;&lt;t1/&gt; la traduction des spécifications en différentes langues.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170731T151704Z" creationid="camille" creationdate="20170731T144803Z">
+        <seg>Afin de faciliter l'adoption d'Open Chain au niveau mondial, nous encourageons &lt;t0/&gt;&lt;t1/&gt; la traduction des spécifications en différentes langues.</seg>
       </tuv>
     </tu>
     <tu>
