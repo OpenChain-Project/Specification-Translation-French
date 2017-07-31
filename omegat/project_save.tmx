@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3&lt;t0/&gt;.2&lt;t1/&gt;.1&lt;t2/&gt; &lt;t3/&gt;A &lt;t4/&gt;procedure&lt;t5/&gt; has been implemented that &lt;t6/&gt;handles &lt;t7/&gt;the &lt;t8/&gt;common&lt;t9/&gt; &lt;t10/&gt;FOSS &lt;t11/&gt;license&lt;t12/&gt; &lt;t13/&gt;use cases &lt;t14/&gt;for &lt;t15/&gt;the&lt;t16/&gt; FOSS components &lt;t17/&gt;of each&lt;t18/&gt; Supplied Software &lt;t19/&gt;release&lt;t20/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170731T135904Z" creationid="camille" creationdate="20170731T135904Z">
+        <seg>3&lt;t0/&gt;.2&lt;t1/&gt;.1&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt;Une procédure a été mise en place pour traiter les cas courants d'usage des licences FOSS &lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt; &lt;t13/&gt;&lt;t14/&gt;pour les composants FOSS de toutes les versions du Logiciel fourni&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>4.1         &lt;t0/&gt;Prepare the set of artifacts which represent the output of the &lt;t1/&gt;FOSS &lt;t2/&gt;management&lt;t3/&gt; program for each Supplied Software release.</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T150953Z" creationid="BrunoGrasset" creationdate="20170725T150953Z">
@@ -886,6 +894,14 @@
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170731T135340Z" creationid="camille" creationdate="20170731T135340Z">
         <seg>inclusion de logiciels FOSS modifiés &lt;t0/&gt;;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>contains&lt;t0/&gt; FOSS with attribution requirements&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170731T135618Z" creationid="camille" creationdate="20170731T135618Z">
+        <seg>inclusion de composants&lt;t0/&gt; FOSS portant des obligations de mentions de paternité&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
