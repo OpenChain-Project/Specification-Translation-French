@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>6.1.1&lt;t0/&gt; The organization&lt;t1/&gt; affirm&lt;t2/&gt;s&lt;t3/&gt; that a &lt;t4/&gt;FOSS &lt;t5/&gt;management &lt;t6/&gt;program exists that meets all the re&lt;t7/&gt;quirements of this &lt;t8/&gt;OpenChain Specification&lt;t9/&gt; version 1.1&lt;t10/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170731T140917Z" creationid="camille" creationdate="20170731T140917Z">
+        <seg>6.1.1&lt;t0/&gt; L'entité atteste qu'elle dispose d'un programme de gestion des questions FOSS répondant à l'ensemble des exigences de la version 1.1 de la spécification Open Chain.&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0/&gt;The policy must be internally communicated&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170727T135055Z" creationid="camille" creationdate="20170727T135055Z">
@@ -555,8 +563,8 @@
       <tuv lang="EN">
         <seg>In order for an organization to be OpenChain certified, it must&lt;t0/&gt; affirm&lt;t1/&gt; that it has a FOSS &lt;t2/&gt;management &lt;t3/&gt;program that me&lt;t4/&gt;ets the criteria described in this &lt;t5/&gt;OpenChain Specification&lt;t6/&gt; version 1.1&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170731T134159Z" creationid="camille" creationdate="20170731T134159Z">
-        <seg>Pour être certifiée OpenChain&lt;t0/&gt;, &lt;t1/&gt; une entité doit attester disposer d'un programme de gestion that it has a FOSS &lt;t2/&gt;management &lt;t3/&gt;program that me&lt;t4/&gt;ets the criteria described in this &lt;t5/&gt;OpenChain Specification&lt;t6/&gt; version 1.1&lt;t7/&gt;.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170731T140748Z" creationid="camille" creationdate="20170731T134159Z">
+        <seg>Pour être certifiée OpenChain&lt;t0/&gt;, &lt;t1/&gt; une entité doit attester disposer d'un programme de gestion des questions FOSS &lt;t2/&gt;&lt;t3/&gt;qui réponde aux critères énoncés dans la présente version 1.1 de la spécification &lt;t5/&gt;OpenChain &lt;t6/&gt;&lt;t7/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
