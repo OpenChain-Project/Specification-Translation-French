@@ -537,6 +537,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order for an organization to be OpenChain certified, it must&lt;t0/&gt; affirm&lt;t1/&gt; that it has a FOSS &lt;t2/&gt;management &lt;t3/&gt;program that me&lt;t4/&gt;ets the criteria described in this &lt;t5/&gt;OpenChain Specification&lt;t6/&gt; version 1.1&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170731T134159Z" creationid="camille" creationdate="20170731T134159Z">
+        <seg>Pour être certifiée OpenChain&lt;t0/&gt;, &lt;t1/&gt; une entité doit attester disposer d'un programme de gestion that it has a FOSS &lt;t2/&gt;management &lt;t3/&gt;program that me&lt;t4/&gt;ets the criteria described in this &lt;t5/&gt;OpenChain Specification&lt;t6/&gt; version 1.1&lt;t7/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In that situation it is understood that no &lt;t5/&gt;procedure&lt;t6/&gt; may exist and this requirement would &lt;t7/&gt;nevertheless &lt;t8/&gt;be met.</seg>
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170727T141441Z" creationid="camille" creationdate="20170727T141441Z">
