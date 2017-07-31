@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t6/&gt;C&lt;t7/&gt;onformance &lt;t8/&gt;validation&lt;t9/&gt; requirements &lt;t10/&gt;can be &lt;t11/&gt;found on the OpenChain project’s website.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170731T142233Z" creationid="camille" creationdate="20170731T142233Z">
+        <seg>&lt;t6/&gt;Les critères de validation de la conformité&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt; sont disponibles sur le site Web du projet OpenChain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t7/&gt;Depending on the organization, t&lt;t8/&gt;hat&lt;t9/&gt; may&lt;t10/&gt; include (but &lt;t11/&gt;is &lt;t12/&gt;not limited to) software developers, release engineers, quality engineer&lt;t13/&gt;s&lt;t14/&gt;, &lt;t15/&gt;product &lt;t16/&gt;marketing and &lt;t17/&gt;product &lt;t18/&gt;management.</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142020Z" creationid="BrunoGrasset" creationdate="20170725T142020Z">
