@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>6.2.1 &lt;t0/&gt;The organization affirms that a &lt;t1/&gt;FOSS &lt;t2/&gt;management &lt;t3/&gt;program exists that meets all the requirements of this OpenChain Spe&lt;t4/&gt;cification version 1.1&lt;t5/&gt; within the past 18 months&lt;t6/&gt; &lt;t7/&gt;of achieving conformance&lt;t8/&gt; &lt;t9/&gt;validation&lt;t10/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170731T143836Z" creationid="camille" creationdate="20170731T143836Z">
+        <seg>6.2.1 &lt;t0/&gt;L'entité atteste disposer d'un programme de gestion des questions &lt;t1/&gt;FOSS &lt;t2/&gt;&lt;t3/&gt;qui répond à l'ensemble des exigences de la spécification OpenChain &lt;t4/&gt; dans sa version 1.1&lt;t5/&gt; au cours des 18 mois &lt;t6/&gt; &lt;t7/&gt;précédant la date de&lt;t8/&gt; &lt;t9/&gt;validation&lt;t10/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0/&gt;The policy must be internally communicated&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170727T135055Z" creationid="camille" creationdate="20170727T135055Z">
