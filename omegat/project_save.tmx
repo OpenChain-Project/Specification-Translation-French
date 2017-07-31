@@ -753,6 +753,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This document is licensed under the Creative Commons Attribution 4.0 International (CC-BY 4.0) license.&lt;t0/&gt; A copy of the license can be found at &lt;t1/&gt;https://creativecommons.org/licenses/by/4.0/&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170731T132841Z" creationid="camille" creationdate="20170731T132841Z">
+        <seg>Ce document est diffusé sous la licence Creative Commons Attribution 4.0 International (CC-BY 4.0).&lt;t0/&gt; Le texte de cette licence est disponible à l'adresse &lt;t1/&gt;https://creativecommons.org/licenses/by/4.0/&lt;t2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This ensures a practical level of flexibility that enables different organizations to tailor their policies and processes to best fit their ob&lt;t4/&gt;jectives.</seg>
       </tuv>
       <tuv lang="FR" changeid="brgr882" changedate="20170725T141417Z" creationid="brgr882" creationdate="20170725T141417Z">
