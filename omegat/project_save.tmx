@@ -705,6 +705,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The FOSS &lt;t0/&gt;management &lt;t1/&gt;program&lt;t2/&gt; must be capable of handling &lt;t3/&gt;common&lt;t4/&gt; &lt;t5/&gt;FOSS &lt;t6/&gt;license&lt;t7/&gt; &lt;t8/&gt;use cases encountered by Software Staff for Supplied Software, which may include the following use cases&lt;t9/&gt; (&lt;t10/&gt;n&lt;t11/&gt;ote&lt;t12/&gt; that the list is neither exhaustive, nor may all of the use cases apply&lt;t13/&gt;):</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170731T135157Z" creationid="camille" creationdate="20170731T135157Z">
+        <seg>Le programme de gestion des questions FOSS &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt; doit être en mesure de gérer les cas d'usage courants de licences FOSS&lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;FOSS &lt;t6/&gt;&lt;t7/&gt; &lt;t8/&gt;auxquels peut être confrontée l'équipe Logiciel pour le Logiciel fourni, qui peuvent être notamment les suivants &lt;t9/&gt; (&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;cette liste n'est pas exhaustive et certains exemples peuvent ne pas s'appliquer à votre contexte&lt;t13/&gt;) :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The FOSS policy and where to find a copy&lt;t0/&gt;;</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142926Z" creationid="BrunoGrasset" creationdate="20170725T142926Z">
