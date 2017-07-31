@@ -872,6 +872,46 @@
         <seg>Vision : Une chaîne de fournisseur de logiciel dans laquelle le logciel libre et/ou open source est fourni avec des informations de conformité fiables et cohérentes.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>contains FOSS or other software under an incompatible license interacting with other componen&lt;t0/&gt;ts within the Supplied &lt;t1/&gt;Software; and/or</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170731T135531Z" creationid="camille" creationdate="20170731T135531Z">
+        <seg>inclusion de logiciels FOSS ou propriétaires diffusés sous des licences incompatibles dans le cadre de leur interaction au sein du Logiciel fourni &lt;t0/&gt;&lt;t1/&gt; ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>contains modified FOSS&lt;t0/&gt;;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170731T135340Z" creationid="camille" creationdate="20170731T135340Z">
+        <seg>inclusion de logiciels FOSS modifiés &lt;t0/&gt;;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>distributed in binary &lt;t0/&gt;form&lt;t1/&gt;;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170731T135216Z" creationid="camille" creationdate="20170731T135216Z">
+        <seg>Distribution sous forme binaire &lt;t0/&gt;&lt;t1/&gt;;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>distributed in source form&lt;t0/&gt;;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170731T135231Z" creationid="camille" creationdate="20170731T135231Z">
+        <seg>distribution sous forme de code source &lt;t0/&gt;;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>integrated with other FOSS such that it may trigger &lt;t0/&gt;copyleft&lt;t1/&gt; obligations&lt;t2/&gt;;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170731T135307Z" creationid="camille" creationdate="20170731T135307Z">
+        <seg>intégration avec d'autres logiciels FOSS qui peuvent déclencher des obligations liées au &lt;t0/&gt;copyleft&lt;t1/&gt; &lt;t2/&gt;;</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
