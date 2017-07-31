@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t12/&gt; &lt;t13/&gt;That a &lt;t14/&gt;procedure&lt;t15/&gt; exists to support this activity and that &lt;t16/&gt;the&lt;t17/&gt; &lt;t18/&gt;procedure&lt;t19/&gt; is followed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170731T140553Z" creationid="camille" creationdate="20170731T140553Z">
+        <seg>&lt;t12/&gt; &lt;t13/&gt;, qu'il existe une procédure pour &lt;t14/&gt;&lt;t15/&gt; mettre en oeuvre cette activité et que cette procédure est suivie. &lt;t16/&gt;&lt;t17/&gt; &lt;t18/&gt;&lt;t19/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t2/&gt;The&lt;t3/&gt; policy &lt;t4/&gt;must be &lt;t5/&gt;internally communicated.</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142207Z" creationid="BrunoGrasset" creationdate="20170725T142207Z">
