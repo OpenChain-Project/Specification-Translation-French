@@ -72,8 +72,8 @@
       <tuv lang="EN">
         <seg>2.2.2 &lt;t0/&gt;Identify source of legal expertis&lt;t1/&gt;e available to FOSS Compliance r&lt;t2/&gt;ole&lt;t3/&gt;(s)&lt;t4/&gt; which could be internal or external.</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170727T155523Z" creationid="camille" creationdate="20170727T155523Z">
-        <seg>2.2.2 &lt;t0/&gt;L'expertise juridique, interne ou externe,  accessible&lt;t1/&gt;aux responsable de la conformité FOSS&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;, a été identifiée.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170731T151345Z" creationid="camille" creationdate="20170727T155523Z">
+        <seg>2.2.2 &lt;t0/&gt;L'expertise juridique, interne ou externe,  accessible&lt;t1/&gt; aux responsable de la conformité FOSS&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;, a été identifiée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -344,8 +344,8 @@
       <tuv lang="EN">
         <seg>Assign responsibilities&lt;t0/&gt; to develop and maintain FOSS compliance policy and processes&lt;t1/&gt;;</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170727T151007Z" creationid="camille" creationdate="20170727T151007Z">
-        <seg>Attriuez les responabilités pour définir et tenir à jour la politque et les processus de conformité FOSS&lt;t0/&gt;&lt;t1/&gt; ;</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170731T151232Z" creationid="camille" creationdate="20170727T151007Z">
+        <seg>Attribuez les responsabilités pour définir et tenir à jour la politique et les processus de conformité FOSS&lt;t0/&gt;&lt;t1/&gt; ;</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,8 +408,8 @@
       <tuv lang="EN">
         <seg>Ensure &lt;t0/&gt;there is a reasonable way for third parties to contact the organization &lt;t1/&gt;with regard to&lt;t2/&gt; FOSS compliance inquiries &lt;t3/&gt;and that this responsibility has been effectively assigned&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170727T142631Z" creationid="camille" creationdate="20170727T142631Z">
-        <seg>Assurez-vous qu'il&lt;t0/&gt; soit raisonablement facile à un tiers de contacter l'entité pour lui adresser ses demandes relatives à la conformté FOSS&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;et que la responsabilité de les traiter a bien été attribuée.&lt;t4/&gt;.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170731T151134Z" creationid="camille" creationdate="20170727T142631Z">
+        <seg>Assurez-vous qu'il&lt;t0/&gt; soit raisonnablement facile à un tiers de contacter l'entité pour lui adresser ses demandes relatives à la conformité FOSS&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt; et que la responsabilité de les traiter a bien été attribuée.&lt;t4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -457,8 +457,8 @@
       <tuv lang="EN">
         <seg>FOSS Liaison must make commercially reasonable efforts to respond to FOSS compliance inquiries as appropriate; and</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170725T135045Z" creationid="camille" creationdate="20170725T135045Z">
-        <seg>Le correspondant FOSS doit s'appliquer, dans une limite raisonable d'un point de vue commercial, à traiter correctement les demandes de conformité FOSS ; et</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170731T151050Z" creationid="camille" creationdate="20170725T135045Z">
+        <seg>Le correspondant FOSS doit s'appliquer, dans une limite raisonnable d'un point de vue commercial, à traiter correctement les demandes de conformité FOSS ; et</seg>
       </tuv>
     </tu>
     <tu>
