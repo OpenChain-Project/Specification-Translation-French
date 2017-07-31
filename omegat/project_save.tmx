@@ -384,8 +384,8 @@
       <tuv lang="EN">
         <seg>Copies of the Compliance Artifacts of the Supplied Software &lt;t0/&gt;release&lt;t1/&gt; &lt;t2/&gt;are archived and easily retrievable, and the archive is planned to exist for at least as long as the Supplied Software is offered or as required by the Identified Licenses (whichever is longer).</seg>
       </tuv>
-      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T151942Z" creationid="BrunoGrasset" creationdate="20170725T151942Z">
-        <seg>Des copies des Livrables de Conformité de la version du Logiciel Fourni sont archivées et facilement accessibles, et une archive est plannifiée pour être disponible tant que le Logiciel Fourni est offert ou que ceci est requis par les Licences Identifiées (le plus long des deux).</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170731T151522Z" creationid="BrunoGrasset" creationdate="20170725T151942Z">
+        <seg>Des copies des Livrables de Conformité de la version du Logiciel Fourni sont archivées et facilement accessibles, et une archive est planifiée pour être disponible tant que le Logiciel Fourni est offert ou que ceci est requis par les Licences Identifiées (le plus long des deux).</seg>
       </tuv>
     </tu>
     <tu>
@@ -636,8 +636,8 @@
       <tuv lang="EN">
         <seg>It is important for the organization &lt;t0/&gt;to &lt;t1/&gt;remains current with th&lt;t2/&gt;e specification if they want &lt;t3/&gt;to assert &lt;t4/&gt;program &lt;t5/&gt;conformance overtime.&lt;t6/&gt; &lt;t7/&gt;This requirement ensures that the &lt;t8/&gt;program’s supporting processes and controls do not erode &lt;t9/&gt;if they want to continue to assert conformance with the specification overtime.</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170731T144531Z" creationid="camille" creationdate="20170731T144531Z">
-        <seg>Il est important que l'entité reste en phase avec la spécification &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;si elle souhaite continuer à pouvoir afficher sa conformité. &lt;t6/&gt; &lt;t7/&gt;Cette exigence permet de garantir que les processus implémentant le programme de conformité et leur verification ne se dégradent pas avec le temps&lt;t9/&gt;.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170731T151557Z" creationid="camille" creationdate="20170731T144531Z">
+        <seg>Il est important que l'entité reste en phase avec la spécification &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;si elle souhaite continuer à pouvoir afficher sa conformité. &lt;t6/&gt; &lt;t7/&gt;Cette exigence permet de garantir que les processus implémentant le programme de conformité et leur vérification ne se dégradent pas avec le temps&lt;t9/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -788,8 +788,8 @@
       <tuv lang="EN">
         <seg>The FOSS &lt;t0/&gt;management &lt;t1/&gt;program&lt;t2/&gt; must be capable of handling &lt;t3/&gt;common&lt;t4/&gt; &lt;t5/&gt;FOSS &lt;t6/&gt;license&lt;t7/&gt; &lt;t8/&gt;use cases encountered by Software Staff for Supplied Software, which may include the following use cases&lt;t9/&gt; (&lt;t10/&gt;n&lt;t11/&gt;ote&lt;t12/&gt; that the list is neither exhaustive, nor may all of the use cases apply&lt;t13/&gt;):</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170731T135157Z" creationid="camille" creationdate="20170731T135157Z">
-        <seg>Le programme de gestion des questions FOSS &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt; doit être en mesure de gérer les cas d'usage courants de licences FOSS&lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;FOSS &lt;t6/&gt;&lt;t7/&gt; &lt;t8/&gt;auxquels peut être confrontée l'équipe Logiciel pour le Logiciel fourni, qui peuvent être notamment les suivants &lt;t9/&gt; (&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;cette liste n'est pas exhaustive et certains exemples peuvent ne pas s'appliquer à votre contexte&lt;t13/&gt;) :</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170731T151431Z" creationid="camille" creationdate="20170731T135157Z">
+        <seg>Le programme de gestion des questions FOSS &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt; doit être en mesure de gérer les cas d'usage courants de licences FOSS&lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt; &lt;t8/&gt;auxquels peut être confrontée l'équipe Logiciel pour le Logiciel fourni, qui peuvent être notamment les suivants &lt;t9/&gt;(&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;cette liste n'est pas exhaustive et certains exemples peuvent ne pas s'appliquer à votre contexte&lt;t13/&gt;) :</seg>
       </tuv>
     </tu>
     <tu>
@@ -909,8 +909,8 @@
       <tuv lang="EN">
         <seg>To ensure a &lt;t0/&gt;process&lt;t1/&gt; exists for creating and managing a FOSS component bill of materials used to construct the Supplied Software.</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170727T165316Z" creationid="camille" creationdate="20170727T164845Z">
-        <seg>Asssurez-vous qu'il existe une procédure pour &lt;t0/&gt;&lt;t1/&gt;créer et gérer une liste des composants FOSS ayant servi à la réalisation du Logiciel fourni.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170731T151351Z" creationid="camille" creationdate="20170727T164845Z">
+        <seg>Assurez-vous qu'il existe une procédure pour &lt;t0/&gt;&lt;t1/&gt;créer et gérer une liste des composants FOSS ayant servi à la réalisation du Logiciel fourni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -925,8 +925,8 @@
       <tuv lang="EN">
         <seg>To ensure that if a&lt;t0/&gt;n organization declares that it has a&lt;t1/&gt; program &lt;t2/&gt;that is&lt;t3/&gt; OpenChain &lt;t4/&gt;Conforming&lt;t5/&gt;,&lt;t6/&gt; that&lt;t7/&gt; such program has met&lt;t8/&gt; &lt;t9/&gt;all&lt;t10/&gt; the requirements of this &lt;t11/&gt;specification&lt;t12/&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170731T141350Z" creationid="camille" creationdate="20170731T141350Z">
-        <seg>Assurez-vous, que, si une entité déclare disposer d'un programme conforme à Open Chain, &lt;t0/&gt;ce programme réponde effectivement à l'ensemble des exigences de la présente spécification. &lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt; &lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170731T151638Z" creationid="camille" creationdate="20170731T141350Z">
+        <seg>Assurez-vous, que, si une entité déclare disposer d'un programme conforme à OpenChain, &lt;t0/&gt;ce programme réponde effectivement à l'ensemble des exigences de la présente spécification. &lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt; &lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;</seg>
       </tuv>
     </tu>
     <tu>
