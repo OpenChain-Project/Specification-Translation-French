@@ -479,6 +479,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>G6: Certify &lt;t0/&gt;A&lt;t1/&gt;dherence to OpenChain &lt;t2/&gt;R&lt;t3/&gt;equirements</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170731T133334Z" creationid="camille" creationdate="20170731T133334Z">
+        <seg>G6: Attester sa conformité aux exigences &lt;t0/&gt;&lt;t1/&gt;d'OpenChain &lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Identified Licenses&lt;t0/&gt; - a set of FOSS licenses identified as a result of following an appropriate method of identifying such licenses.</seg>
       </tuv>
       <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T141941Z" creationid="BrunoGrasset" creationdate="20170725T141941Z">
