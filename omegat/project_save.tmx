@@ -462,12 +462,15 @@
       </tuv>
     </tu>
     <tu>
-      <note>Dans l'original, je ne comprend pas la motivation du "certain"</note>
+      <note>Dans l'original, je ne comprend pas la motivation du "certain"
+
+Bruno: Il permet de renforcer la notion d'assurance, mais n'est pas utile dans la traduction française, je suis d'accord.
+</note>
       <tuv lang="EN">
         <seg>Ensure certain FOSS responsibilities have been effectively assigned.</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170727T160126Z" creationid="camille" creationdate="20170727T160126Z">
-        <seg>Assurez-vous que les responsabilités pour la gestion de la conformité FOSS ont bien été attribuées.</seg>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T165057Z" creationid="camille" creationdate="20170727T160126Z">
+        <seg>S'assurer que les responsabilités pour la gestion de la conformité FOSS ont bien été attribuées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1003,8 +1006,8 @@
       <tuv lang="EN">
         <seg>To ensure a process exists for creating and managing a FOSS component bill of materials used to construct the Supplied Software.</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T083126Z" creationid="hvovietanh" creationdate="20170803T083126Z">
-        <seg>Assurez-vous qu'il existe une procédure pour créer et gérer une liste des composants FOSS ayant servi à la réalisation du Logiciel fourni.</seg>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T165211Z" creationid="hvovietanh" creationdate="20170803T083126Z">
+        <seg>S'assurer qu'il existe une procédure pour créer et gérer une liste des composants FOSS ayant servi à la réalisation du Logiciel fourni.</seg>
       </tuv>
     </tu>
     <tu>
