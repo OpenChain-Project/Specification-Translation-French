@@ -457,8 +457,8 @@
       <tuv lang="EN">
         <seg>Ensure an organization has given reasonable consideration to developing a policy with respect to publicly contributing to FOSS.</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T084518Z" creationid="hvovietanh" creationdate="20170803T084518Z">
-        <seg>Assurez-vous que l'entité a suffisamment pris en compte la question de la contribution aux projets FOSS publics et d’élaborer une politique à ce sujet.</seg>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T165533Z" creationid="hvovietanh" creationdate="20170803T084518Z">
+        <seg>S'assurer que l'entité a suffisamment pris en compte la question de la contribution publique aux projets FOSS et a élaboré une politique à ce sujet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,8 +1030,8 @@ Bruno: Il permet de renforcer la notion d'assurance, mais n'est pas utile dans l
       <tuv lang="EN">
         <seg>To ensure the program is sufficiently robust to handle an organization’s common FOSS license use cases.</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T084014Z" creationid="hvovietanh" creationdate="20170803T083956Z">
-        <seg>Assurez-vous que le programme est suffisamment complet pour traiter les cas d'usage de licences FOSS couramment rencontrés par l'entité</seg>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T165303Z" creationid="hvovietanh" creationdate="20170803T083956Z">
+        <seg>S'assurer que le programme est suffisamment complet pour traiter les cas d'usage de licences FOSS couramment rencontrés par l'entité</seg>
       </tuv>
     </tu>
     <tu>
