@@ -209,8 +209,8 @@
       <tuv lang="EN">
         <seg>A documented procedure exists to review and document the obligations, restrictions and rights granted by each Identified License governing the Supplied Software.</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170804T164447Z" creationid="camille" creationdate="20170804T164447Z">
-        <seg>Il existe une procédure documentée pour contrôler et documenter les obligations, restrictions et droits accordés par chacune des Licences Identifiées gouvernant le Logiciel Fourni.</seg>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T164429Z" creationid="camille" creationdate="20170804T164447Z">
+        <seg>Il existe une procédure documentée pour contrôler et décrire les obligations, restrictions et droits accordés par chacune des Licences Identifiées gouvernant le Logiciel Fourni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -337,8 +337,8 @@
       <tuv lang="EN">
         <seg>Assign individual(s) responsible for receiving external FOSS inquiries;</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170725T133552Z" creationid="camille" creationdate="20170725T133552Z">
-        <seg>Attribuez à une ou plusieurs personne la responsabilité de traiter les demandes FOSS externes ;</seg>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T164533Z" creationid="camille" creationdate="20170725T133552Z">
+        <seg>Attribuer à une ou plusieurs personne la responsabilité de traiter les demandes FOSS externes ;</seg>
       </tuv>
     </tu>
     <tu>
@@ -498,8 +498,8 @@
       <tuv lang="EN">
         <seg>Ensure there is a reasonable way for third parties to contact the organization with regard to FOSS compliance inquiries and that this responsibility has been effectively assigned.</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T081902Z" creationid="hvovietanh" creationdate="20170803T081902Z">
-        <seg>Assurez-vous qu'il soit raisonnablement facile à un tiers de contacter l'entité pour lui adresser ses demandes relatives à la conformité FOSS et que la responsabilité de les traiter a bien été attribuée.</seg>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T164609Z" creationid="hvovietanh" creationdate="20170803T081902Z">
+        <seg>S'assurer qu'il soit raisonnablement facile à un tiers de contacter l'entité pour lui adresser ses demandes relatives à la conformité FOSS et que la responsabilité de les traiter a bien été attribuée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -610,8 +610,8 @@
       <tuv lang="EN">
         <seg>Identify FOSS Liaison Function ("FOSS Liaison").</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T081444Z" creationid="hvovietanh" creationdate="20170803T081444Z">
-        <seg>Créez un rôle de Correspondant FOSS ("Correspondant FOSS")&lt;t2/&gt;.</seg>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T164520Z" creationid="hvovietanh" creationdate="20170803T081444Z">
+        <seg>Créer un rôle de Correspondant FOSS ("Correspondant FOSS")&lt;t2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -778,8 +778,8 @@
       <tuv lang="EN">
         <seg>Publicly identify a means by which one can contact the FOSS Liaison.</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T081509Z" creationid="hvovietanh" creationdate="20170803T081509Z">
-        <seg>Indiquez publiquement un moyen simple de joindre le Correspondant FOSS.</seg>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T164547Z" creationid="hvovietanh" creationdate="20170803T081509Z">
+        <seg>Indiquer publiquement un moyen simple de joindre le Correspondant FOSS.</seg>
       </tuv>
     </tu>
     <tu>
