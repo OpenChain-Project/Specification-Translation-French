@@ -329,8 +329,8 @@
       <tuv lang="EN">
         <seg>Assign individual(s) responsible for managing internal FOSS compliance.</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T081950Z" creationid="hvovietanh" creationdate="20170803T081950Z">
-        <seg>Attribuez à une ou plusieurs personnes la responsabilité de la gestion de la conformité FOSS en interne</seg>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T164702Z" creationid="hvovietanh" creationdate="20170803T081950Z">
+        <seg>Attribuer à une ou plusieurs personnes la responsabilité de la gestion de la conformité FOSS en interne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -345,8 +345,8 @@
       <tuv lang="EN">
         <seg>Assign responsibilities to develop and maintain FOSS compliance policy and processes;</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T082107Z" creationid="hvovietanh" creationdate="20170803T082107Z">
-        <seg>Attribuez les responsabilités pour définir et tenir à jour la politique et les processus de conformité FOSS ;</seg>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T164742Z" creationid="hvovietanh" creationdate="20170803T082107Z">
+        <seg>Attribuer les responsabilités pour définir et tenir à jour la politique et les processus de conformité FOSS ;</seg>
       </tuv>
     </tu>
     <tu>
@@ -495,6 +495,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>Passage à l'infinitif par cohérence avec le reste des traductions</note>
       <tuv lang="EN">
         <seg>Ensure there is a reasonable way for third parties to contact the organization with regard to FOSS compliance inquiries and that this responsibility has been effectively assigned.</seg>
       </tuv>
@@ -618,8 +619,8 @@
       <tuv lang="EN">
         <seg>Identify Internal FOSS Compliance Role(s).</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T081921Z" creationid="hvovietanh" creationdate="20170803T081921Z">
-        <seg>Créez un rôle de responsable de la conformité FOSS interne.</seg>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T164652Z" creationid="hvovietanh" creationdate="20170803T081921Z">
+        <seg>Créer un rôle de responsable de la conformité FOSS interne.</seg>
       </tuv>
     </tu>
     <tu>
