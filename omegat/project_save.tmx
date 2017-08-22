@@ -149,7 +149,7 @@
       </tuv>
     </tu>
     <tu>
-      <note>Bruno : Le terme 'contribution' réduit la politique FOSS. L'idée première il me semble est d'avoir une politique générale vis-à-vis des FOSS et non seulement pour la contribution. Aussi, le terme n'est plus utilisé par la suite lorsque 'politique' est mentioné.</note>
+      <note>Bruno : Le terme 'contribution' réduit la politique FOSS. L'idée première il me semble est d'avoir une politique générale vis-à-vis des FOSS et non seulement pour la contribution. Aussi, le terme n'est plus utilisé par la suite lorsque 'politique' est mentioné, sauf au paragraphe spécifique sur la contribution.</note>
       <tuv lang="EN">
         <seg>A documented FOSS policy exists.</seg>
       </tuv>
@@ -449,8 +449,8 @@
       <tuv lang="EN">
         <seg>Ensure an organization has a documented process for how the organization publicly contributes FOSS.</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T090012Z" creationid="hvovietanh" creationdate="20170803T090007Z">
-        <seg>Assurez-vous que l'entité dispose de processus documentés pour contribuer publiquement aux projets FOSS.</seg>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T165725Z" creationid="hvovietanh" creationdate="20170803T090007Z">
+        <seg>S'assurer que l'entité dispose de processus documentés pour contribuer publiquement aux projets FOSS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,8 +662,8 @@ Bruno: Il permet de renforcer la notion d'assurance, mais n'est pas utile dans l
       <tuv lang="EN">
         <seg>In order for an organization to be OpenChain certified, it must affirm that it has a FOSS management program that meets the criteria described in this OpenChain Specification version 1.1.</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T090322Z" creationid="hvovietanh" creationdate="20170803T090322Z">
-        <seg>Pour être certifiée OpenChain, une entité doit attester disposer d'un programme de gestion des questions FOSS qui réponde aux critères énoncés dans la présente version 1.1 de la spécification OpenChain.</seg>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T165830Z" creationid="hvovietanh" creationdate="20170803T090322Z">
+        <seg>Pour être certifiée OpenChain, une entité doit attester disposer d'un programme de gestion des logiciels FOSS qui réponde aux critères énoncés dans la présente version 1.1 de la spécification OpenChain.</seg>
       </tuv>
     </tu>
     <tu>
