@@ -417,8 +417,8 @@
       <tuv lang="EN">
         <seg>Copies of the Compliance Artifacts of the Supplied Software release are archived and easily retrievable, and the archive is planned to exist for at least as long as the Supplied Software is offered or as required by the Identified Licenses (whichever is longer).</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T084204Z" creationid="hvovietanh" creationdate="20170803T084204Z">
-        <seg>Des copies des Livrables de Conformité de la version du Logiciel Fourni sont archivées et facilement accessibles, et une archive est planifiée pour être disponible tant que le Logiciel Fourni est offert ou que ceci est requis par les Licences Identifiées (le plus long des deux).</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170926T154642Z" creationid="hvovietanh" creationdate="20170803T084204Z">
+        <seg>Des copies des Livrables de Conformité de la version du Logiciel Fourni sont archivées et facilement accessibles, et une archive est planifiée pour être disponible tant que le Logiciel Fourni est proposé ou que celle-ci est requise par les Licences Identifiées (le plus long des deux).</seg>
       </tuv>
     </tu>
     <tu>
