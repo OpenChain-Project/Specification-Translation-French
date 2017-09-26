@@ -32,8 +32,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Mission:&lt;/f0&gt; Establish requirements to achieve effective management of free/open source software (FOSS) for software supply chain participants, such that the requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170810T143349Z" creationid="camille" creationdate="20170804T163807Z">
-        <seg>&lt;f0&gt;Mission :&lt;/f0&gt; Établir les exigences pour atteindre une gestion efficace des logiciels libre et/ou open source pour les participants de la chaîne de fournisseurs de logiciel, afin que les exigences et garanties associées soient développées collaborativement et ouvertement par les représentants de la chaîne de fournisseurs de logiciel, la communauté open source, et le monde universitaire.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170926T152836Z" creationid="camille" creationdate="20170804T163807Z">
+        <seg>&lt;f0&gt;Mission :&lt;/f0&gt; Établir les exigences pour atteindre une gestion efficace des logiciels libre et/ou open source pour les participants de la chaîne d'approvisionnement logicielle, afin que les exigences et garanties associées soient développées collaborativement et ouvertement par les représentants de la chaîne d'approvisionnement logicielle, la communauté open source, et le monde académique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80,16 +80,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Vision:&lt;/f0&gt; A software supply chain where free/open source software (FOSS) is delivered with trustworthy and consistent compliance information.</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170810T143154Z" creationid="camille" creationdate="20170804T163741Z">
-        <seg>&lt;f0&gt;Vision :&lt;/f0&gt; Une chaîne de fournisseur de logiciel dans laquelle le logiciel libre et/ou open source est fourni avec des informations de conformité fiables et cohérentes.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170926T152746Z" creationid="camille" creationdate="20170804T163741Z">
+        <seg>&lt;f0&gt;Vision :&lt;/f0&gt; Une chaîne d'approvisionnement logicielle dans laquelle le logiciel libre et/ou open source est fourni avec des informations de conformité fiables et cohérentes.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;s0/&gt;Section 3 presents the specification requirements where each one has a list of one or more Verification Artifacts.</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170804T163850Z" creationid="hvovietanh" creationdate="20170803T073809Z">
-        <seg>&lt;s0/&gt;La section 3 présente les exigences de la spécification avec pour chacune une liste d’un ou plusieurs --Artéfacts-- de Vérification.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170926T152923Z" creationid="hvovietanh" creationdate="20170803T073809Z">
+        <seg>&lt;s0/&gt;La section 3 présente les exigences de la spécification avec pour chacune une liste d’un ou plusieurs Points de Vérification.</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,8 +638,8 @@ Bruno: Il permet de renforcer la notion d'assurance, mais n'est pas utile dans l
       <tuv lang="EN">
         <seg>If all the requirements have been met for a given program, it would be considered OpenChain Conforming in accordance with version 1.1 of the specification.</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T073818Z" creationid="hvovietanh" creationdate="20170803T073818Z">
-        <seg>Si toutes les exigences ont été satisfaites pour un programme donné, il sera considéré Conforme à OpenChain en accord avec la version 1.1 de cette spécification. Les Artéfacts de Vérification ne sont pas destinés à être publics, mais pourraient être fournis sous --Accord de Confidentialité-- ou sur demande privée de l'organisation OpenChain pour valider la conformité.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170926T153340Z" creationid="hvovietanh" creationdate="20170803T073818Z">
+        <seg>Si toutes les exigences ont été satisfaites pour un programme donné, il sera considéré Conforme à OpenChain en accord avec la version 1.1 de cette spécification.</seg>
       </tuv>
     </tu>
     <tu>
