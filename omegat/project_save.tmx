@@ -297,8 +297,8 @@
       <tuv lang="EN">
         <seg>An internal documented procedure exists that assigns responsibility for receiving FOSS compliance inquiries.</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T081751Z" creationid="hvovietanh" creationdate="20170803T081751Z">
-        <seg>Il existe une procédure interne documentée pour attribuer la responsabilité de traiter les demandes de conformité FOSS.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170926T154022Z" creationid="hvovietanh" creationdate="20170803T081751Z">
+        <seg>Il existe une procédure interne documentée qui attribue la responsabilité de traiter les demandes de conformité FOSS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,16 +614,16 @@ Bruno: Il permet de renforcer la notion d'assurance, mais n'est pas utile dans l
       <tuv lang="EN">
         <seg>Identify FOSS Liaison Function ("FOSS Liaison").</seg>
       </tuv>
-      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T164520Z" creationid="hvovietanh" creationdate="20170803T081444Z">
-        <seg>Créer un rôle de Correspondant FOSS ("Correspondant FOSS")&lt;t2/&gt;.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170926T153952Z" creationid="hvovietanh" creationdate="20170803T081444Z">
+        <seg>Créer un rôle de Correspondant FOSS ("Correspondant FOSS").</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Identify Internal FOSS Compliance Role(s).</seg>
       </tuv>
-      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T164652Z" creationid="hvovietanh" creationdate="20170803T081921Z">
-        <seg>Créer un rôle de responsable de la conformité FOSS interne.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170926T154102Z" creationid="hvovietanh" creationdate="20170803T081921Z">
+        <seg>Créer le(s) rôle(s) de responsable de la conformité FOSS interne.</seg>
       </tuv>
     </tu>
     <tu>
