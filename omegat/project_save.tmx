@@ -153,8 +153,8 @@
       <tuv lang="EN">
         <seg>A documented FOSS policy exists.</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T074625Z" creationid="hvovietanh" creationdate="20170803T074625Z">
-        <seg>Il existe une politique de contribution FOSS documentée.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170926T153459Z" creationid="hvovietanh" creationdate="20170803T074625Z">
+        <seg>Il existe une politique FOSS documentée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1062,8 +1062,8 @@ Bruno: Il permet de renforcer la notion d'assurance, mais n'est pas utile dans l
       <tuv lang="EN">
         <seg>Verification Artifacts are not intended to be public, but could be provided under NDA or upon private request from the OpenChain organization to validate conformance.</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T073824Z" creationid="hvovietanh" creationdate="20170803T073824Z">
-        <seg>Si toutes les exigences ont été satisfaites pour un programme donné, il sera considéré Conforme à OpenChain en accord avec la version 1.1 de cette spécification. Les Artéfacts de Vérification ne sont pas destinés à être publics, mais pourraient être fournis sous --Accord de Confidentialité-- ou sur demande privée de l'organisation OpenChain pour valider la conformité.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170926T153415Z" creationid="hvovietanh" creationdate="20170803T073824Z">
+        <seg>Les Points de Vérification ne sont pas destinés à être publics, mais pourraient être fournis sous Accord de Confidentialité ou sur demande privée de l'organisation OpenChain pour valider la conformité.</seg>
       </tuv>
     </tu>
     <tu>
