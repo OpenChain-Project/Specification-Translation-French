@@ -257,8 +257,8 @@
       <tuv lang="EN">
         <seg>A study group was formed to consider whether a standard program specification could be created that would: i) facilitate greater quality and consistency of open source compliance information being shared across the industry; and ii) decrease the high transaction costs associated with open source resulting from compliance rework.</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T073657Z" creationid="hvovietanh" creationdate="20170803T073657Z">
-        <seg>Un groupe d’étude fût formé pour évaluer si une spécification d’un programme standard pourrait être créée qui permettrait de : i) faciliter une meilleure qualité et cohérence des informations de conformité open source partagées au travers de l’industrie ; et ii) diminuer les coûts importants associés à l’open source résultant de la nécessité de revoir la conformité.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170926T152710Z" creationid="hvovietanh" creationdate="20170803T073657Z">
+        <seg>Un groupe d’étude fût formé pour évaluer si une spécification d’un programme standard pourrait être créée qui permettrait de : i) faciliter une meilleure qualité et cohérence des informations de conformité open source partagées au travers de l’industrie ; et ii) diminuer les coûts transactionnels élevés associés à l’open source résultant de la nécessité de revoir la conformité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -313,8 +313,8 @@
       <tuv lang="EN">
         <seg>As a consequence, at each tier of the supply chain, downstream organizations were frequently redoing the compliance work already performed by other upstream organizations.</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T073633Z" creationid="hvovietanh" creationdate="20170803T073633Z">
-        <seg>En conséquence, à chaque maillon de la chaîne de fournisseurs, les organisations avales refaisaient régulièrement le travail de conformité déjà réalisé par les organisations amonts.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170926T152615Z" creationid="hvovietanh" creationdate="20170803T073633Z">
+        <seg>En conséquence, à chaque maillon de la chaîne d'approvisionnement, les organisations en aval refaisaient régulièrement le travail de conformité déjà réalisé par les organisations en amont.</seg>
       </tuv>
     </tu>
     <tu>
@@ -862,8 +862,8 @@ Bruno: Il permet de renforcer la notion d'assurance, mais n'est pas utile dans l
       <tuv lang="EN">
         <seg>The OpenChain Initiative began in 2013 when a group of software supply chain open source practitioners observed two emerging patterns: 1) significant process similarities existed among organizations with mature open source compliance programs; and 2) there still remained a large number of organizations exchanging software with less developed programs.</seg>
       </tuv>
-      <tuv lang="FR" changeid="brgr882" changedate="20170725T140800Z" creationid="brgr882" creationdate="20170725T140800Z">
-        <seg>L’Initiative OpenChain a débuté en 2013 quand un groupe de professionnels de l'open source a observé deux tendances émergentes : 1) des similarités significatives existent entre les processus d'organisations ayant un programme de conformité open source mâture ; et 2) il existe encore un grand nombre d’organisations échangeant du logiciel ayant des programmes moins développés.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170926T152523Z" creationid="brgr882" creationdate="20170725T140800Z">
+        <seg>L’Initiative OpenChain a débuté en 2013 quand un groupe de professionnels de l'open source a observé deux tendances émergentes : 1) des similarités significatives existent entre les processus d'organisations ayant un programme de conformité open source mâture ; et 2) il existe encore un grand nombre d’organisations échangeant du logiciel ayant des programmes de conformité moins développés.</seg>
       </tuv>
     </tu>
     <tu>
