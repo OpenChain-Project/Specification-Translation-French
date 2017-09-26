@@ -96,8 +96,8 @@
       <tuv lang="EN">
         <seg>&lt;s0/&gt;That a procedure exists to support this activity and that the procedure is followed.</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170810T145930Z" creationid="hvovietanh" creationdate="20170803T084006Z">
-        <seg>, qu'il existe une procédure pour mettre en œuvre cette activité et que cette procédure est suivie. </seg>
+      <tuv lang="FR" changeid="camille" changedate="20170926T154424Z" creationid="hvovietanh" creationdate="20170803T084006Z">
+        <seg> qu'il existe une procédure pour mettre en œuvre cette activité et que cette procédure est suivie. </seg>
       </tuv>
     </tu>
     <tu>
@@ -990,8 +990,8 @@ Bruno: Il permet de renforcer la notion d'assurance, mais n'est pas utile dans l
       <tuv lang="EN">
         <seg>This set is referred to as the Compliance Artifacts which may include (but are not limited to) one or more of the following: source code, attribution notices, copyright notices, copy of licenses, modification notifications, written offers, SPDX documents and so forth.</seg>
       </tuv>
-      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T084130Z" creationid="hvovietanh" creationdate="20170803T084130Z">
-        <seg>Cet ensemble correspond aux Livrables de Conformité qui peuvent inclure (mais ne sont pas limités à) un ou plusieurs des items suivants : code source, notices d'attribution, notices de droits d'auteur, copie des licences, notifications de modifications, offres écrites, documents SPDX et ainsi de suite.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170926T154552Z" creationid="hvovietanh" creationdate="20170803T084130Z">
+        <seg>Cet ensemble correspond aux Livrables de Conformité qui peuvent inclure (mais ne sont pas limités à) un ou plusieurs des éléments suivants : code source, notices d'attribution, notices de droits d'auteur, copie des licences, notifications de modifications, offres écrites, documents SPDX et ainsi de suite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,8 +1030,8 @@ Bruno: Il permet de renforcer la notion d'assurance, mais n'est pas utile dans l
       <tuv lang="EN">
         <seg>To ensure the program is sufficiently robust to handle an organization’s common FOSS license use cases.</seg>
       </tuv>
-      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T165303Z" creationid="hvovietanh" creationdate="20170803T083956Z">
-        <seg>S'assurer que le programme est suffisamment complet pour traiter les cas d'usage de licences FOSS couramment rencontrés par l'entité</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170926T154430Z" creationid="hvovietanh" creationdate="20170803T083956Z">
+        <seg>S'assurer que le programme est suffisamment complet pour traiter les cas d'usage de licences FOSS couramment rencontrés par l'entité,</seg>
       </tuv>
     </tu>
     <tu>
