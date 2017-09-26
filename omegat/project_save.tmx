@@ -353,8 +353,8 @@
       <tuv lang="EN">
         <seg>At least 85% of the Software Staff are current, as per the definition in above section.</seg>
       </tuv>
-      <tuv lang="FR" changeid="camille" changedate="20170810T145754Z" creationid="hvovietanh" creationdate="20170803T075920Z">
-        <seg>Au moins 85% de l'Équipe Logiciel a une formation au FOSS valide, telle que défini ci-dessus.</seg>
+      <tuv lang="FR" changeid="camille" changedate="20170926T153944Z" creationid="hvovietanh" creationdate="20170803T075920Z">
+        <seg>Au moins 85% de l'Équipe Logiciel est à jour, tel que défini ci-dessus.</seg>
       </tuv>
     </tu>
     <tu>
