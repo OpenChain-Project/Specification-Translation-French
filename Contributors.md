@@ -1,5 +1,5 @@
-Bruno GRASSET
-Benjamin JEAN
-Laurent JOUBERT
-Camille MOULIN
-Harmonie VO VIET ANH
+- Bruno GRASSET
+- Benjamin JEAN
+- Laurent JOUBERT
+- Camille MOULIN
+- Harmonie VO VIET ANH
