@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;FOSS Liaison&lt;/f0&gt; - a designated person who is assigned to receive external FOSS inquires.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170804T164025Z" creationid="hvovietanh" creationdate="20170803T073909Z">
+        <seg>&lt;f0&gt;Correspondant FOSS&lt;/f0&gt; - une personne chargée de recevoir les demandes externes de renseignement sur les FOSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;FOSS&lt;/f0&gt; (Free and Open Source Software) - software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (OpenSource.org) or the Free Software Definition (published by the Free Software Foundation) or similar license.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170804T164016Z" creationid="hvovietanh" creationdate="20170803T073846Z">
+        <seg>&lt;f0&gt;FOSS&lt;/f0&gt; (Free and Open Source Software, logiciel libre et/ou open source) - logiciel soumis à une ou plusieurs licences qui respecte l'Open Source Definition publiée par l'Open Source Initiative (OpenSource.org) ou la Free Software Definition (publiée par la Free Software Foundation) ou licence similaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Identified Licenses&lt;/f0&gt; - a set of FOSS licenses identified as a result of following an appropriate method of identifying such licenses.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170804T164034Z" creationid="hvovietanh" creationdate="20170803T074424Z">
+        <seg>&lt;f0&gt;Licences Identifiées&lt;/f0&gt; - un ensemble de licences FOSS identifiées comme résultat d'une méthode appropriée d'identification de telles licences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Mission:&lt;/f0&gt; Establish requirements to achieve effective management of free/open source software (FOSS) for software supply chain participants, such that the requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170926T152836Z" creationid="camille" creationdate="20170804T163807Z">
+        <seg>&lt;f0&gt;Mission :&lt;/f0&gt; Établir les exigences pour atteindre une gestion efficace des logiciels libre et/ou open source pour les participants de la chaîne d'approvisionnement logicielle, afin que les exigences et garanties associées soient développées collaborativement et ouvertement par les représentants de la chaîne d'approvisionnement logicielle, la communauté open source, et le monde académique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;OpenChain Conforming&lt;/f0&gt; - a program that satisfies all the requirements of this specification.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170804T164044Z" creationid="hvovietanh" creationdate="20170803T074437Z">
+        <seg>&lt;f0&gt;Conforme à OpenChain &lt;/f0&gt;- un programme qui satisfait toutes les exigences de cette spécification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;SPDX&lt;/f0&gt; or Software Package Data Exchange - the format standard created by the SPDX Working Group for exchanging license and copyright information for a given software package.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170804T164057Z" creationid="hvovietanh" creationdate="20170803T074510Z">
+        <seg>&lt;f0&gt;SPDX&lt;/f0&gt; ou Software Package Data Exchange (Echange de Données de Paquet Logiciel) - le format standard créé par le Groupe de Travail SPDX pour les informations de licence et de droits d'auteur pour un paquet logiciel donné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Software Staff&lt;/f0&gt; - any employee or contractor that defines, contributes to or has responsibility for preparing Supplied Software.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T145250Z" creationid="hvovietanh" creationdate="20170803T074451Z">
+        <seg>&lt;f0&gt;Équipe Logiciel&lt;/f0&gt; - tout employé ou consultant qui définit, contribue à, ou est responsable de préparer, le Logiciel Fourni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Supplied Software&lt;/f0&gt; - software that an organization delivers to third parties (e.g., other organizations or individuals).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170804T164110Z" creationid="hvovietanh" creationdate="20170803T074523Z">
+        <seg>&lt;f0&gt;Logiciel Fourni&lt;/f0&gt; - logiciel qu'une organisation fournit à des tierces parties (i.e., personnes morales et/ou physiques).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Verification Artifacts&lt;/f0&gt; - evidence that must exist in order for a given requirement to be considered satisfied.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170804T164121Z" creationid="hvovietanh" creationdate="20170803T074534Z">
+        <seg>&lt;f0&gt;Points de Vérification&lt;/f0&gt; - preuve qui doit exister pour qu'une exigence puisse être considérée comme satisfaite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Vision:&lt;/f0&gt; A software supply chain where free/open source software (FOSS) is delivered with trustworthy and consistent compliance information.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170926T152746Z" creationid="camille" creationdate="20170804T163741Z">
+        <seg>&lt;f0&gt;Vision :&lt;/f0&gt; Une chaîne d'approvisionnement logicielle dans laquelle le logiciel libre et/ou open source est fourni avec des informations de conformité fiables et cohérentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0/&gt;Section 3 presents the specification requirements where each one has a list of one or more Verification Artifacts.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170926T152923Z" creationid="hvovietanh" creationdate="20170803T073809Z">
+        <seg>&lt;s0/&gt;La section 3 présente les exigences de la spécification avec pour chacune une liste d’un ou plusieurs Points de Vérification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0/&gt;That a procedure exists to support this activity and that the procedure is followed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170926T154424Z" creationid="hvovietanh" creationdate="20170803T084006Z">
+        <seg> qu'il existe une procédure pour mettre en œuvre cette activité et que cette procédure est suivie. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0/&gt;The FOSS contribution policy can be made a part of the overall FOSS policy of an organization or be its own separate policy.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T084608Z" creationid="hvovietanh" creationdate="20170803T084608Z">
+        <seg>&lt;s0/&gt;Cette politique de contribution FOSS peut faire partie de la politique FOSS générale ou constituer un document distinct.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0/&gt;The details of the policy and available translations can be found on the OpenChain project &lt;a1&gt;specification webpage&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T144845Z" creationid="camille" creationdate="20170810T144845Z">
+        <seg>&lt;s0/&gt;Les détails de la politique et ses traductions sont disponibles sur &lt;a1&gt;le site Web de la spécification OpenChain&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A bill of materials is needed to support the systematic review of each component’s license terms to understand the obligations and restrictions as it applies to the distribution of the Supplied Software.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T165633Z" creationid="camille" creationdate="20170727T165633Z">
+        <seg>Cette liste est nécessaire au contrôle systématique des termes des licences des composants afin d'appréhender correctement l'ensemble des obligations et restrictions qui en découlent dans le cadre de la distribution du Logiciel fourni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A copy of the license can be found at https://creativecommons.org/licenses/by/4.0/.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170804T163702Z" creationid="camille" creationdate="20170804T163702Z">
+        <seg>Le texte de cette licence est disponible à l'adresse https://creativecommons.org/licenses/by/4.0/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A description of the SPDX specification can be found at www.spdx.org.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T074514Z" creationid="hvovietanh" creationdate="20170803T074514Z">
+        <seg>Une description de la spécification SPDX peut être trouvée sur le site www.spdx.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A documented FOSS contribution policy exists;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T084324Z" creationid="hvovietanh" creationdate="20170803T084324Z">
+        <seg>Il existe une politique de contribution FOSS documentée;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Bruno : Le terme 'contribution' réduit la politique FOSS. L'idée première il me semble est d'avoir une politique générale vis-à-vis des FOSS et non seulement pour la contribution. Aussi, le terme n'est plus utilisé par la suite lorsque 'politique' est mentioné, sauf au paragraphe spécifique sur la contribution.</note>
+      <tuv lang="EN">
+        <seg>A documented FOSS policy exists.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170926T153459Z" creationid="hvovietanh" creationdate="20170803T074625Z">
+        <seg>Il existe une politique FOSS documentée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A documented procedure exists for handling the review and remediation of non-compliant cases.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T082326Z" creationid="hvovietanh" creationdate="20170803T082326Z">
+        <seg>Il existe une procédure documentée pour la vérification de la conformité et le traitement des cas de non-conformité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A documented procedure exists for identifying, tracking and archiving information about the collection of FOSS components from which a Supplied Software release is comprised.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T150257Z" creationid="camille" creationdate="20170810T150257Z">
+        <seg>Il existe une procédure documentée pour identifier, tracer et archiver les informations sur l'ensemble des composants FOSS inclus dans chaque version publiée du Logiciel fourni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A documented procedure exists that assigns internal responsibilities for FOSS compliance.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T082257Z" creationid="hvovietanh" creationdate="20170803T082257Z">
+        <seg>Il existe une procédure documentée pour attribuer les responsabilités internes pour la gestion de la conformité FOSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A documented procedure exists that ensures the Compliance Artifacts are prepared and distributed with Supplied Software release as required by the Identified Licenses.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T084152Z" creationid="hvovietanh" creationdate="20170803T084152Z">
+        <seg>Il existe une procédure documentée qui assure que les Livrables de Conformité sont préparés et distribués avec les versions du Logiciel Fourni comme requis par les Licences Identifiées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A documented procedure exists that makes all Software Staff aware of the existence of the FOSS contribution policy (e.g., via training, internal wiki, or other practical communication method).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T145624Z" creationid="hvovietanh" creationdate="20170803T084436Z">
+        <seg>Il existe une procédure documentée informant l'Équipe Logiciel de l'existence d'une politique de contribution FOSS (par exemple, via formation, wiki interne, ou tout autre moyen de communication).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A documented procedure exists that makes all Software Staff aware of the existence of the FOSS policy (e.g., via training, internal wiki, or other practical communication method).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T145635Z" creationid="hvovietanh" creationdate="20170803T074637Z">
+        <seg>Il existe une procédure documentée informant l'Équipe Logiciel de l'existence d'une politique FOSS (par exemple, via formation, wiki interne, ou autre moyen de communication).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A documented procedure exists to review and document the obligations, restrictions and rights granted by each Identified License governing the Supplied Software.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T164429Z" creationid="camille" creationdate="20170804T164447Z">
+        <seg>Il existe une procédure documentée pour contrôler et décrire les obligations, restrictions et droits accordés par chacune des Licences Identifiées gouvernant le Logiciel Fourni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A policy may exist such that contributions are not permitted at all.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T090023Z" creationid="hvovietanh" creationdate="20170803T090023Z">
+        <seg>Il se peut que la politique en la matière soit d'interdire toute contribution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A procedure has been implemented that handles the common FOSS license use cases for the FOSS components of each Supplied Software release.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T083931Z" creationid="hvovietanh" creationdate="20170803T083931Z">
+        <seg>Une procédure a été mise en place pour traiter les cas courants d'usage des licences FOSS pour les composants FOSS de toutes les versions du Logiciel fourni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A process exists for creating and managing a FOSS component bill of materials which includes each component (and its Identified Licenses) in a Supplied Software release.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T082400Z" creationid="hvovietanh" creationdate="20170803T082400Z">
+        <seg>Il existe une procédure pour créer et gérer une liste exhaustive des composants FOSS et de leurs licences associées ("bill of materials") pour chaque version du Logiciel Fourni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A process exists for reviewing the Identified Licenses to determine the obligations, restrictions and rights granted by each license.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T080040Z" creationid="hvovietanh" creationdate="20170803T080040Z">
+        <seg>Il existe un processus pour revoir les Licences Identifiées pour déterminer leurs obligations, restrictions et droits accordés par chacune des licences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A process exists for the resolution of FOSS compliance issues.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T082147Z" creationid="hvovietanh" creationdate="20170803T082147Z">
+        <seg>Un processus est en place pour résoudre les problèmes de conformité FOSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A study group was formed to consider whether a standard program specification could be created that would: i) facilitate greater quality and consistency of open source compliance information being shared across the industry; and ii) decrease the high transaction costs associated with open source resulting from compliance rework.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170926T152710Z" creationid="hvovietanh" creationdate="20170803T073657Z">
+        <seg>Un groupe d’étude fût formé pour évaluer si une spécification d’un programme standard pourrait être créée qui permettrait de : i) faciliter une meilleure qualité et cohérence des informations de conformité open source partagées au travers de l’industrie ; et ii) diminuer les coûts transactionnels élevés associés à l’open source résultant de la nécessité de revoir la conformité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A test may be used to allow Software Staff to satisfy the training requirement.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T145743Z" creationid="hvovietanh" creationdate="20170803T075900Z">
+        <seg>Un test peut être utilisé pour permettre à l'Équipe Logiciel de satisfaire cette exigence de formation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A written FOSS policy exists that governs FOSS license compliance of the Supplied Software distribution.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T074542Z" creationid="hvovietanh" creationdate="20170803T074542Z">
+        <seg>Il existe une politique formelle relative aux FOSS qui régit la conformité aux licences FOSS pour la distribution du Logiciel Fourni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A written policy exists that governs contributions to FOSS projects by the organization.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T135005Z" creationid="camille" creationdate="20170727T135005Z">
+        <seg>Il existe une politique formelle pour cadrer les contributions de l'entité aux projets FOSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although no requirements are provided here on what should be included in the policy, other sections may impose requirements on the policy.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T100421Z" creationid="hvovietanh" creationdate="20170803T100421Z">
+        <seg>Bien qu'aucune exigence ne soit fournie ici sur ce que la politique devrait contenir, d'autres sections peuvent définir des exigences sur son contenu..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An internal documented procedure exists that assigns responsibility for receiving FOSS compliance inquiries.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170926T154022Z" creationid="hvovietanh" creationdate="20170803T081751Z">
+        <seg>Il existe une procédure interne documentée qui attribue la responsabilité de traiter les demandes de conformité FOSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix I: Language Translations</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170731T144550Z" creationid="camille" creationdate="20170731T144550Z">
+        <seg>Annexe I : Traductions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As a consequence, at each tier of the supply chain, downstream organizations were frequently redoing the compliance work already performed by other upstream organizations.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170926T152615Z" creationid="hvovietanh" creationdate="20170803T073633Z">
+        <seg>En conséquence, à chaque maillon de la chaîne d'approvisionnement, les organisations en aval refaisaient régulièrement le travail de conformité déjà réalisé par les organisations en amont.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Assign Responsibility for Achieving Compliance</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T081422Z" creationid="hvovietanh" creationdate="20170803T081422Z">
+        <seg>Attribuer les responsabilités pour atteindre la conformité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Assign individual(s) responsible for managing internal FOSS compliance.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T164702Z" creationid="hvovietanh" creationdate="20170803T081950Z">
+        <seg>Attribuer à une ou plusieurs personnes la responsabilité de la gestion de la conformité FOSS en interne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Assign individual(s) responsible for receiving external FOSS inquiries;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T164533Z" creationid="camille" creationdate="20170725T133552Z">
+        <seg>Attribuer à une ou plusieurs personne la responsabilité de traiter les demandes FOSS externes ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Assign responsibilities to develop and maintain FOSS compliance policy and processes;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T164742Z" creationid="hvovietanh" creationdate="20170803T082107Z">
+        <seg>Attribuer les responsabilités pour définir et tenir à jour la politique et les processus de conformité FOSS ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At least 85% of the Software Staff are current, as per the definition in above section.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170926T153944Z" creationid="hvovietanh" creationdate="20170803T075920Z">
+        <seg>Au moins 85% de l'Équipe Logiciel est à jour, tel que défini ci-dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Basics of Intellectual Property law pertaining to FOSS and FOSS licenses;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T075755Z" creationid="hvovietanh" creationdate="20170803T075755Z">
+        <seg>Les bases de la Propriété Intellectuelle en relation avec le FOSS et les licences FOSS ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Because OpenChain functions as an open source project translations are driven by those willing to contribute their time and expertise to perform translations under the terms of the CC-BY 4.0 license and the project’s translation policy.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T093421Z" creationid="hvovietanh" creationdate="20170803T093421Z">
+        <seg>OpenChain fonctionne comme un projet Open Source : les traductions sont assurées par des volontaires souhaitant y consacrer leur temps et leur expertise et placer le résultat sous licence CC-BY 4.0, selon la politique de traduction du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Certify Adherence to OpenChain Requirements</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T090058Z" creationid="hvovietanh" creationdate="20170803T090058Z">
+        <seg>Attester sa conformité aux exigences OpenChain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commercially reasonable budget has been allocated.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T082045Z" creationid="hvovietanh" creationdate="20170803T082045Z">
+        <seg>Un budget raisonnable du point de vue commercial lui est consacré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conformance validation requirements can be found on the OpenChain project’s website.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T092536Z" creationid="hvovietanh" creationdate="20170803T092536Z">
+        <seg>Les critères de validation de la conformité sont disponibles sur le site Web du projet OpenChain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conformance with this version of the specification will last 18 months from the date conformance validation was achieved.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T092520Z" creationid="hvovietanh" creationdate="20170803T092520Z">
+        <seg>La conformité avec cette version de la spécification dure 18 mois à partir de la date de la validation de cette conformité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170804T163342Z" creationid="camille" creationdate="20170804T163342Z">
+        <seg>Table des matières</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copies of the Compliance Artifacts of the Supplied Software release are archived and easily retrievable, and the archive is planned to exist for at least as long as the Supplied Software is offered or as required by the Identified Licenses (whichever is longer).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170926T154642Z" creationid="hvovietanh" creationdate="20170803T084204Z">
+        <seg>Des copies des Livrables de Conformité de la version du Logiciel Fourni sont archivées et facilement accessibles, et une archive est planifiée pour être disponible tant que le Logiciel Fourni est proposé ou que celle-ci est requise par les Licences Identifiées (le plus long des deux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Definitions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T141857Z" creationid="BrunoGrasset" creationdate="20170725T141857Z">
+        <seg>Définitions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deliver FOSS Content Documentation and Artifacts</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T151545Z" creationid="hvovietanh" creationdate="20170803T084058Z">
+        <seg>Fourniture des documentations et livrables FOSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Depending on the organization, that may include (but is not limited to) software developers, release engineers, quality engineers, product marketing and product management.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T074502Z" creationid="hvovietanh" creationdate="20170803T074502Z">
+        <seg>En fonction des organisations, ceci peut inclure (mais n'est pas limité à) les développeurs logiciel, les ingénieurs de version, les ingénieurs qualité, les responsables produit et marketing produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ensure an organization has a documented process for how the organization publicly contributes FOSS.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T165725Z" creationid="hvovietanh" creationdate="20170803T090007Z">
+        <seg>S'assurer que l'entité dispose de processus documentés pour contribuer publiquement aux projets FOSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ensure an organization has given reasonable consideration to developing a policy with respect to publicly contributing to FOSS.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T165533Z" creationid="hvovietanh" creationdate="20170803T084518Z">
+        <seg>S'assurer que l'entité a suffisamment pris en compte la question de la contribution publique aux projets FOSS et a élaboré une politique à ce sujet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Dans l'original, je ne comprend pas la motivation du "certain"
+
+Bruno: Il permet de renforcer la notion d'assurance, mais n'est pas utile dans la traduction française, je suis d'accord.
+</note>
+      <tuv lang="EN">
+        <seg>Ensure certain FOSS responsibilities have been effectively assigned.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T165057Z" creationid="camille" creationdate="20170727T160126Z">
+        <seg>S'assurer que les responsabilités pour la gestion de la conformité FOSS ont bien été attribuées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ensure steps were taken to create, record and make Software Staff aware of the existence of a FOSS policy.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T145640Z" creationid="hvovietanh" creationdate="20170803T075422Z">
+        <seg>S'assurer que l'Équipe Logiciel ait été informée de l'existence d'une politique FOSS. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ensure the Software Staff have recently attended FOSS training and that a core set of relevant FOSS topics are covered.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T145759Z" creationid="hvovietanh" creationdate="20170803T075949Z">
+        <seg>S'assurer que l'Équipe Logiciel a récemment participé à la formation FOSS et qu'un ensemble clé des sujets liés au FOSS est couvert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ensure the complete collection of Compliance Artifacts accompany the Supplied Software as required by the Identified Licenses that govern the Supplied Software along with other reports created as part of the FOSS review process.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T084257Z" creationid="hvovietanh" creationdate="20170803T084257Z">
+        <seg>S'assurer qu'une collection complète des Livrables de Conformité ainsi que les rapports créés dans le cadre du processus de revue des FOSS accompagnent le Logiciel Fourni comme requis par les Licences Identifiées qui gouvernent le Logiciel Fourni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Passage à l'infinitif par cohérence avec le reste des traductions</note>
+      <tuv lang="EN">
+        <seg>Ensure there is a reasonable way for third parties to contact the organization with regard to FOSS compliance inquiries and that this responsibility has been effectively assigned.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T164609Z" creationid="hvovietanh" creationdate="20170803T081902Z">
+        <seg>S'assurer qu'il soit raisonnablement facile à un tiers de contacter l'entité pour lui adresser ses demandes relatives à la conformité FOSS et que la responsabilité de les traiter a bien été attribuée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FOSS Liaison function is publicly identified (e.g., via a published contact email address, or the Linux Foundation's Open Compliance Directory).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T150700Z" creationid="hvovietanh" creationdate="20170803T081739Z">
+        <seg>Le Correspondant FOSS est identifiable publiquement (ex.: par une adresse email de contact publique ou via l'annuaire Open Compliance Directory de la Linux Foundation).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FOSS Liaison must make commercially reasonable efforts to respond to FOSS compliance inquiries as appropriate; and</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T150655Z" creationid="camille" creationdate="20170725T135045Z">
+        <seg>Le Correspondant FOSS doit s'appliquer, dans une limite raisonnable d'un point de vue commercial, à traiter correctement les demandes de conformité FOSS ; et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FOSS compliance management activity is sufficiently resourced:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T081958Z" creationid="hvovietanh" creationdate="20170803T081958Z">
+        <seg>L'activité de conformité FOSS doit disposer de ressources suffisantes :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FOSS component records exist for each Supplied Software release which demonstrates the documented procedure was properly followed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170727T164156Z" creationid="camille" creationdate="20170727T164156Z">
+        <seg>Il existe des documents relatifs aux composants FOSS pour chacune des version publiée du Logiciel fourni, montrant que la procédure documentée a été suivie correctement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FOSS licensing concepts (including the concepts of permissive and copyleft licenses);</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T150824Z" creationid="hvovietanh" creationdate="20170803T075801Z">
+        <seg>Les concepts des licences FOSS (y compris les concepts de licence permissive et copyleft) ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FOSS project licensing models;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T075810Z" creationid="hvovietanh" creationdate="20170803T075810Z">
+        <seg>Les modèles de licences de projet FOSS ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FOSS training materials covering the above topics exists (e.g., slide decks, online course, or other training materials).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170802T120900Z" creationid="hvovietanh" creationdate="20170802T120900Z">
+        <seg>Il existe un support de formation au FOSS couvrant les sujets mentionnés ci-dessus (par exemple, diapositives de présentation, cours en ligne, ou autre support de formation).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>G1: Know Your FOSS Responsibilities</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170811T151349Z" creationid="camille" creationdate="20170804T163356Z">
+        <seg>G1: Connaître vos responsabilités vis-à-vis des FOSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>G2: Assign Responsibility for Achieving Compliance</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170804T163401Z" creationid="camille" creationdate="20170804T163401Z">
+        <seg>Attribuer les responsabilités pour atteindre la conformité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>G3: Review and Approve FOSS Content</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170804T163405Z" creationid="camille" creationdate="20170804T163405Z">
+        <seg>Contrôler et valider le contenu FOSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>G4: Deliver FOSS Content Documentation and Artifacts</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170804T163424Z" creationid="camille" creationdate="20170804T163424Z">
+        <seg>G4: Fourniture des Documentations et Livrables FOSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>G5: Understand FOSS Community Engagement</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170804T163433Z" creationid="camille" creationdate="20170804T163433Z">
+        <seg>G5: Comprendre l'implication dans les communautés FOSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>G6: Certify Adherence to OpenChain Requirements</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170804T163447Z" creationid="camille" creationdate="20170804T163447Z">
+        <seg>G6: Attester sa conformité aux exigences OpenChain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Identify FOSS Liaison Function ("FOSS Liaison").</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170926T153952Z" creationid="hvovietanh" creationdate="20170803T081444Z">
+        <seg>Créer un rôle de Correspondant FOSS ("Correspondant FOSS").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Identify Internal FOSS Compliance Role(s).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170926T154102Z" creationid="hvovietanh" creationdate="20170803T081921Z">
+        <seg>Créer le(s) rôle(s) de responsable de la conformité FOSS interne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Identify source of legal expertise available to FOSS Compliance role(s) which could be internal or external.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T150938Z" creationid="hvovietanh" creationdate="20170803T082240Z">
+        <seg>L'expertise juridique, interne ou externe, accessible aux responsables de la conformité FOSS, a été identifiée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If all the requirements have been met for a given program, it would be considered OpenChain Conforming in accordance with version 1.1 of the specification.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170926T153340Z" creationid="hvovietanh" creationdate="20170803T073818Z">
+        <seg>Si toutes les exigences ont été satisfaites pour un programme donné, il sera considéré Conforme à OpenChain en accord avec la version 1.1 de cette spécification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If an organization permits contributions to FOSS projects then a process must exist that implements the FOSS contribution policy outlined in Section 5.1.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T084644Z" creationid="hvovietanh" creationdate="20170803T084644Z">
+        <seg>Si l'entité autorise les contributions aux projets FOSS, elle doit mettre en place les processus pour implémenter la politique de contribution FOSS mentionnée à la Section 5.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In accordance with the Vision and Mission, this specification defines a set of requirements that if met, would significantly increases the probability that an open source compliance program had achieved a sufficient level of quality, consistency and completeness; although a program that satisfies all the specification requirements does not guarantee full compliance.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T073723Z" creationid="hvovietanh" creationdate="20170803T073723Z">
+        <seg>En accord avec la Vision et la Mission, cette spécification définit un jeu d’exigences qui, si satisfaites, améliorera significativement la probabilité qu’un programme de conformité open source ait achevé un niveau suffisant de qualité, cohérence et complétude ; bien qu’un programme qui satisfasse toutes les exigences de la spécification ne garantisse pas une conformité complète.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order for an organization to be OpenChain certified, it must affirm that it has a FOSS management program that meets the criteria described in this OpenChain Specification version 1.1.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T165830Z" creationid="hvovietanh" creationdate="20170803T090322Z">
+        <seg>Pour être certifiée OpenChain, une entité doit attester disposer d'un programme de gestion des logiciels FOSS qui réponde aux critères énoncés dans la présente version 1.1 de la spécification OpenChain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In that situation it is understood that no procedure may exist and this requirement would nevertheless be met.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T090034Z" creationid="hvovietanh" creationdate="20170803T090034Z">
+        <seg>Dans de tels cas, l'absence de processus dédiés est légitime et la présente exigence sera considérée comme respectée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the situation where contributions are not permitted at all, a policy should exist making that position clear.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T084625Z" creationid="hvovietanh" creationdate="20170803T084625Z">
+        <seg>Pour les cas où les contributions sont systématiquement interdites, une politique doit expliciter cette position.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142450Z" creationid="BrunoGrasset" creationdate="20170725T142450Z">
+        <seg>Introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is important for the organization to remains current with the specification if they want to assert program conformance overtime.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T093329Z" creationid="hvovietanh" creationdate="20170803T093329Z">
+        <seg>Il est important que l'entité reste en phase avec la spécification si elle souhaite continuer à pouvoir afficher sa conformité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Know Your FOSS Responsibilities</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170804T164143Z" creationid="hvovietanh" creationdate="20170803T074538Z">
+        <seg>Connaître vos responsabilités vis-à-vis des FOSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Legal expertise pertaining to FOSS compliance is accessible to the FOSS Compliance role (e.g., could be internal or external); and</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T150856Z" creationid="hvovietanh" creationdate="20170803T082130Z">
+        <seg>Le ou les responsables de la conformité FOSS doivent avoir accès à l'expertise juridique nécessaire (elle peut être interne ou externe); et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mandatory FOSS training for all Software Staff exists such that:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T145647Z" creationid="BrunoGrasset" creationdate="20170725T142818Z">
+        <seg>Il existe une formation sur le FOSS, obligatoire pour l'Équipe Logiciel, qui :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Method of tracking the completion of the training for all Software Staff.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T145750Z" creationid="hvovietanh" creationdate="20170803T075909Z">
+        <seg>Méthode de suivi de la participation à la formation par l'Équipe Logiciel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name of persons, group or function in FOSS Compliance role(s) internally identified.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T082215Z" creationid="hvovietanh" creationdate="20170803T082215Z">
+        <seg>Il existe une liste de personnes en charge de la gestion de la conformité FOSS  en interne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenChain Specification</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142434Z" creationid="camille" creationdate="20170725T130754Z">
+        <seg>Spécifications OpenChain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenChain Specification 1.1</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170804T164717Z" creationid="camille" creationdate="20170804T164717Z">
+        <seg>Specifications OpenChain 1.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prepare the set of artifacts which represent the output of the FOSS management program for each Supplied Software release.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T084115Z" creationid="hvovietanh" creationdate="20170803T084115Z">
+        <seg>Préparer l'ensemble des livrables qui représente la sortie du programme de gestion des FOSS pour chacune des versions du Logiciel Fourni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Process for identifying, recording and/or tracking of FOSS components contained in Supplied Software.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T075835Z" creationid="hvovietanh" creationdate="20170803T075835Z">
+        <seg>Les processus pour identifier, enregistrer et tracer les composants FOSS contenus dans le Logiciel Fourni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Provided the FOSS contribution policy permits contributions, a documented procedure exists that governs FOSS contributions.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T085923Z" creationid="hvovietanh" creationdate="20170803T085923Z">
+        <seg>Si la politique de contribution FOSS autorise les contributions, elle doit s'accompagner de processus documentés précisant les modalités de celles-ci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Publicly identify a means by which one can contact the FOSS Liaison.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T164547Z" creationid="hvovietanh" creationdate="20170803T081509Z">
+        <seg>Indiquer publiquement un moyen simple de joindre le Correspondant FOSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rationale:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T074650Z" creationid="hvovietanh" creationdate="20170803T074650Z">
+        <seg>Raison :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T142128Z" creationid="BrunoGrasset" creationdate="20170725T142128Z">
+        <seg>Exigences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review and Approve FOSS Content</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T082339Z" creationid="hvovietanh" creationdate="20170803T082339Z">
+        <seg>Contrôler et valider le contenu FOSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Section 2 introduces definitions of key terms used throughout the specification.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brgr882" changedate="20170725T141428Z" creationid="brgr882" creationdate="20170725T141428Z">
+        <seg>La section 2 introduit les définitions et termes clés utilisés tout au long de la spécification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Software Staff must have completed FOSS training within the last 24 months (to be considered current).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T145736Z" creationid="hvovietanh" creationdate="20170803T075851Z">
+        <seg>L'Équipe Logiciel doit avoir reçu cette formation FOSS dans les derniers 24 mois (pour être considérée valide).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Software Staff roles and responsibilities pertaining to FOSS compliance specifically and the FOSS policy in general; and</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T145732Z" creationid="hvovietanh" creationdate="20170803T075820Z">
+        <seg>Les rôles et responsabilités de l'Équipe Logiciel vis-à-vis de la politique FOSS en général et de la conformité FOSS en particulier ; et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The FOSS Compliance role and the FOSS Liaison may be the same individual.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170802T122612Z" creationid="hvovietanh" creationdate="20170802T122612Z">
+        <seg>Les rôles de responsable de la conformité FOSS et celui de Correspondant FOSS peuvent être assumés par la même personne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The FOSS management program must be capable of handling common FOSS license use cases encountered by Software Staff for Supplied Software, which may include the following use cases (note that the list is neither exhaustive, nor may all of the use cases apply):</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T145619Z" creationid="hvovietanh" creationdate="20170803T083206Z">
+        <seg>Le programme de gestion des questions FOSS doit être en mesure de gérer les cas d'usage courants de licences FOSS auxquels peut être confrontée l'Équipe Logiciel pour le Logiciel fourni, qui peuvent être notamment les suivants (cette liste n'est pas exhaustive et certains exemples peuvent ne pas s'appliquer à votre contexte) :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The FOSS policy and where to find a copy;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T075729Z" creationid="hvovietanh" creationdate="20170803T075729Z">
+        <seg>La politique FOSS et où en trouver une copie ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OpenChain Initiative began in 2013 when a group of software supply chain open source practitioners observed two emerging patterns: 1) significant process similarities existed among organizations with mature open source compliance programs; and 2) there still remained a large number of organizations exchanging software with less developed programs.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170926T152523Z" creationid="brgr882" creationdate="20170725T140800Z">
+        <seg>L’Initiative OpenChain a débuté en 2013 quand un groupe de professionnels de l'open source a observé deux tendances émergentes : 1) des similarités significatives existent entre les processus d'organisations ayant un programme de conformité open source mâture ; et 2) il existe encore un grand nombre d’organisations échangeant du logiciel ayant des programmes de conformité moins développés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Vision and Mission of the OpenChain Initiative are as follows:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="brgr882" changedate="20170725T141113Z" creationid="brgr882" creationdate="20170725T141113Z">
+        <seg>La Vision et la Mission de l’initiative OpenChain sont les suivantes :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The intent is to ensure a core base level set of topics are covered but a typical training program would likely be more comprehensive than what is required here.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T150535Z" creationid="hvovietanh" creationdate="20170803T080021Z">
+        <seg>L'intention est d'assurer qu'un ensemble clé de sujets de base est couvert mais un programme typique de formation serait susceptible d'être plus complet que ce qui est requis ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The latter observation resulted in a lack of trust in the consistency and quality of the compliance artifacts accompanying the software being exchanged.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T145208Z" creationid="brgr882" creationdate="20170725T141015Z">
+        <seg>Cette dernière observation a entraîné un manque de confiance dans la cohérence et la qualité des livrables de conformité accompagnant le logiciel échangé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The mere meeting of a subset of these requirements would not be considered sufficient to warrant a program be OpenChain certified.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T144313Z" creationid="hvovietanh" creationdate="20170803T091451Z">
+        <seg>La simple observation d'un sous-ensemble de ces exigences est insuffisante pour attribuer la certification OpenChain à un programme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The organization affirms that a FOSS management program exists that meets all the requirements of this OpenChain Specification version 1.1 within the past 18 months of achieving conformance validation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T165944Z" creationid="hvovietanh" creationdate="20170803T092618Z">
+        <seg>L'entité atteste disposer d'un programme de gestion des logiciels FOSS qui répond à l'ensemble des exigences de la spécification OpenChain dans sa version 1.1 au cours des 18 mois précédant la date de validation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The organization affirms that a FOSS management program exists that meets all the requirements of this OpenChain Specification version 1.1.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T165837Z" creationid="hvovietanh" creationdate="20170803T090344Z">
+        <seg>L'entité atteste qu'elle dispose d'un programme de gestion des logiciels FOSS répondant à l'ensemble des exigences de la version 1.1 de la spécification OpenChain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The policy must be internally communicated.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T074556Z" creationid="hvovietanh" creationdate="20170803T074556Z">
+        <seg>Cette politique doit être communiquée en interne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The requirements represent a base level (minimum) set of requirements a program must satisfy to be considered OpenChain Conforming.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T073733Z" creationid="hvovietanh" creationdate="20170803T073733Z">
+        <seg>Les exigences représentent un jeu d’exigences de base (minimum) qu’un programme doit satisfaire pour être considéré Conforme à OpenChain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specification focuses on the “what” and “why” qualities of a compliance program as opposed to the “how” and “when” considerations.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T145027Z" creationid="camille" creationdate="20170804T163831Z">
+        <seg>La spécification se concentre sur les qualités des "quoi" et "pourquoi" d’un programme de conformité et non aux considérations des "comment" et "quand".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The study group evolved into a work group, and in April 2016, formally organized as a Linux Foundation collaborative project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T073704Z" creationid="hvovietanh" creationdate="20170803T073704Z">
+        <seg>Le groupe d’étude a évolué en un groupe de travail, et en avril 2016, organisé formellement en tant que projet collaboratif de la Fondation Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The training, at a minimum, covers the following topics:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T075723Z" creationid="hvovietanh" creationdate="20170803T075723Z">
+        <seg>Au minimum, couvre les sujets suivants :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They represent the evidence that must exist in order for a given requirement to be considered satisfied.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170725T141817Z" creationid="BrunoGrasset" creationdate="20170725T141817Z">
+        <seg>Ils représentent la preuve qui doit exister pour considérer une exigence donnée satisfaite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This document is licensed under the Creative Commons Attribution 4.0 International (CC-BY 4.0) license.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170804T163627Z" creationid="camille" creationdate="20170804T163627Z">
+        <seg>Ce document est diffusé sous la licence Creative Commons Attribution 4.0 International  (CC-BY 4.0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This ensures a practical level of flexibility that enables different organizations to tailor their policies and processes to best fit their objectives.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T073750Z" creationid="hvovietanh" creationdate="20170803T073750Z">
+        <seg>Ceci assure un niveau --réaliste-- de flexibilité qui permet aux différentes organisations d’adapter leurs politiques et processus pour mieux atteindre leurs objectifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This requirement ensures that the program’s supporting processes and controls do not erode if they want to continue to assert conformance with the specification overtime.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T093348Z" creationid="hvovietanh" creationdate="20170803T093348Z">
+        <seg>Cette exigence permet de garantir que les processus implémentant le programme de conformité et leur vérification ne se dégradent pas avec le temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This set is referred to as the Compliance Artifacts which may include (but are not limited to) one or more of the following: source code, attribution notices, copyright notices, copy of licenses, modification notifications, written offers, SPDX documents and so forth.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170926T154552Z" creationid="hvovietanh" creationdate="20170803T084130Z">
+        <seg>Cet ensemble correspond aux Livrables de Conformité qui peuvent inclure (mais ne sont pas limités à) un ou plusieurs des éléments suivants : code source, notices d'attribution, notices de droits d'auteur, copie des licences, notifications de modifications, offres écrites, documents SPDX et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Time to perform the role has been allocated; and</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T082022Z" creationid="hvovietanh" creationdate="20170803T082022Z">
+        <seg>Suffisamment de temps a été alloué pour effectuer les tâches du rôle ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To ensure a process exists for creating and managing a FOSS component bill of materials used to construct the Supplied Software.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T165211Z" creationid="hvovietanh" creationdate="20170803T083126Z">
+        <seg>S'assurer qu'il existe une procédure pour créer et gérer une liste des composants FOSS ayant servi à la réalisation du Logiciel fourni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To ensure a process exists for reviewing and identifying the license obligations for each Identified License for the various use cases.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T150607Z" creationid="hvovietanh" creationdate="20170803T080056Z">
+        <seg>S'assurer qu'il existe un processus pour contrôler et identifier les obligations des licences pour les cas d'usage donnés pour chaque Licence Identifiée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To ensure that if an organization declares that it has a program that is OpenChain Conforming, that such program has met all the requirements of this specification.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="BrunoGrasset" changedate="20170822T165904Z" creationid="hvovietanh" creationdate="20170803T091034Z">
+        <seg>S'assurer, que, si une entité déclare disposer d'un programme conforme à OpenChain, ce programme réponde effectivement à l'ensemble des exigences de la présente spécification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To ensure the program is sufficiently robust to handle an organization’s common FOSS license use cases.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170926T154430Z" creationid="hvovietanh" creationdate="20170803T083956Z">
+        <seg>S'assurer que le programme est suffisamment complet pour traiter les cas d'usage de licences FOSS couramment rencontrés par l'entité,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To facilitate global adoption we welcome efforts to translate the specification into multiple languages.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170810T144300Z" creationid="hvovietanh" creationdate="20170803T093407Z">
+        <seg>Afin de faciliter l'adoption d'OpenChain au niveau mondial, nous encourageons  la traduction des spécifications en différentes langues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Understand FOSS Community Engagement</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T084306Z" creationid="hvovietanh" creationdate="20170803T084306Z">
+        <seg>Comprendre l'implication dans les communautés FOSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Verification Artifact(s):</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170802T120759Z" creationid="hvovietanh" creationdate="20170802T120759Z">
+        <seg>Point(s) de vérification :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Verification Artifacts are not intended to be public, but could be provided under NDA or upon private request from the OpenChain organization to validate conformance.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20170926T153415Z" creationid="hvovietanh" creationdate="20170803T073824Z">
+        <seg>Les Points de Vérification ne sont pas destinés à être publics, mais pourraient être fournis sous Accord de Confidentialité ou sur demande privée de l'organisation OpenChain pour valider la conformité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>contains FOSS or other software under an incompatible license interacting with other components within the Supplied Software; and/or</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T083416Z" creationid="hvovietanh" creationdate="20170803T083416Z">
+        <seg>inclusion de logiciels FOSS ou propriétaires diffusés sous des licences incompatibles dans le cadre de leur interaction au sein du Logiciel fourni; et/ou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>contains FOSS with attribution requirements.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T083430Z" creationid="hvovietanh" creationdate="20170803T083430Z">
+        <seg>inclusion de composants FOSS portant des obligations de mentions de paternité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>contains modified FOSS;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T083345Z" creationid="hvovietanh" creationdate="20170803T083345Z">
+        <seg>inclusion de logiciels FOSS modifiés;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>distributed in binary form;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T083256Z" creationid="hvovietanh" creationdate="20170803T083217Z">
+        <seg>distribution sous forme de binaire;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>distributed in source form;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T083250Z" creationid="hvovietanh" creationdate="20170803T083233Z">
+        <seg>distribution sous forme de code source;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>integrated with other FOSS such that it may trigger copyleft obligations;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="hvovietanh" changedate="20170803T083334Z" creationid="hvovietanh" creationdate="20170803T083334Z">
+        <seg>intégration avec d'autres logiciels FOSS qui peuvent déclencher des obligations liées au copyleft;</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;quot; &lt;x1/&gt;Program&lt;x2/&gt;&amp;quot; – the set of policies, processes and personnel that manage an organization&amp;#39;s Open Source license compliance activities.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T103454Z" creationid="lionel" creationdate="20190606T100812Z">
+        <seg>$&amp;quot; &lt;x1/&gt;Programme&lt;x2/&gt;&amp;quot; – Un ensemble de politiques, de processus et du personnel qui gèrent les activités de conformité des licences Open Source d'une organisation.&amp;#39;s .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 Policy</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T122028Z" creationid="lionel" creationdate="20190606T121522Z">
+        <seg>1 Politique de contribution</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2)Definitions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T142139Z" creationid="lionel" creationdate="20190605T142139Z">
+        <seg>2)Définitions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3)Requirements</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T142129Z" creationid="lionel" creationdate="20190605T142129Z">
+        <seg>Exigences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&amp;quot;Compliance Artifacts&amp;quot; -&lt;x2/&gt; a collection of artifacts that represent the output of the Program for the Supplied Software.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T093332Z" creationid="lionel" creationdate="20190606T093151Z">
+        <seg>&lt;x1/&gt;&amp;quot;Livrables de Conformité&amp;quot; -&lt;x2/&gt; Un ensemble de Livrables qui constituent la matérialisation du Programme pour le Logiciel Fourni.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&amp;quot;Identified Licenses&amp;quot;&lt;x2/&gt; - a set of Open Source Software licenses identified as a result of following an appropriate method of identifying Open Source components from which the Supplied Software is comprised.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T094227Z" creationid="lionel" creationdate="20190606T094150Z">
+        <seg>&lt;f0&gt;Licences Identifiées&lt;/f0&gt; - Un ensemble de licences Open Source intégrées dans le Logiciel Fourni, et identifiées comme résultat d'une méthode appropriée d'identification de telles licences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&amp;quot;Open Source&amp;quot;&lt;x2/&gt;  - software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (OpenSource.org) or the Free Software Definition (published by the Free Software Foundation) or similar license.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T094711Z" creationid="lionel" creationdate="20190606T094711Z">
+        <seg>&lt;f0&gt;Open Source&lt;/f0&gt; logiciel soumis à une ou plusieurs licences qui respecte l'Open Source Definition publiée par l'Open Source Initiative (OpenSource.org) ou la Free Software Definition (publiée par la Free Software Foundation) ou licence similaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&amp;quot;OpenChain Conformant&lt;x2/&gt;&amp;quot; - a Program that satisfies all the requirements of this specification.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T094305Z" creationid="lionel" creationdate="20190606T094305Z">
+        <seg>&lt;f0&gt;Conforme à OpenChain &lt;/f0&gt;- un Programme qui satisfait toutes les exigences de cette spécification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&amp;quot;SPDX&amp;quot;&lt;x2/&gt; - the format standard created by the Linux Foundation&amp;#39;s SPDX (Software Package Data Exchange) Working Group for exchanging license and copyright information for a given software package.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T120138Z" creationid="lionel" creationdate="20190606T120138Z">
+        <seg>&lt;f0&gt;SPDX&lt;/f0&gt; ou Software Package Data Exchange (Echange de Données de Paquet Logiciel) - le format standard créé par le Groupe de Travail SPDX pour les informations de licence et de droits d'auteur pour un paquet logiciel donné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&amp;quot;Software Staff&amp;quot;&lt;x2/&gt; - any organization employee or contractor that defines, contributes to or has responsibility for preparing Supplied Software.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T103549Z" creationid="lionel" creationdate="20190606T103549Z">
+        <seg>&lt;f0&gt;Équipe Logiciel&lt;/f0&gt; - tout employé ou consultant qui définit, contribue à, ou est responsable de préparer, le Logiciel Fourni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&amp;quot;Supplied Software&amp;quot;&lt;x2/&gt; - software that an organization distributes to third parties (&lt;x3/&gt;e.g.&lt;x4/&gt;, other organizations or individuals).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T120208Z" creationid="lionel" creationdate="20190606T120208Z">
+        <seg>&lt;f0&gt;Logiciel Fourni&lt;/f0&gt; - logiciel qu'une organisation fournit à des tierces parties (i.e., personnes morales et/ou physiques).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&amp;quot;Verification Materials&amp;quot;&lt;x2/&gt; -materials that demonstrate that a given requirement is satisfied.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T120223Z" creationid="lionel" creationdate="20190606T120223Z">
+        <seg>&lt;f0&gt;Points de Vérification&lt;/f0&gt; - preuve qui doit exister pour qu'une exigence puisse être considérée comme satisfaite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;A process exists for reviewing and updating the policy and supporting tasks;&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T164725Z" creationid="lionel" creationdate="20190606T164725Z">
+        <seg>&lt;x1/&gt;Il existe un processus d'examen et de mise à jour de la politique et des misssions de soutient(??);&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;A process exists for reviewing the Identified Licenses to determine the obligations, restrictions and rights granted by each license.&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T150152Z" creationid="lionel" creationdate="20190606T150152Z">
+        <seg>Il existe un processus consistant à vérifier les Licences Identifiées pour déterminer leurs obligations, restrictions et les droits conférés par chacune d'entre elles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;A process exists for the resolution of Open Source license compliance issues.&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T164941Z" creationid="lionel" creationdate="20190606T164941Z">
+        <seg>Un processus est en place pour résoudre les problèmes de conformité Open Source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;A written Open Source policy exists that governs Open Source license compliance of the Supplied Software.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T121929Z" creationid="lionel" creationdate="20190606T121929Z">
+        <seg>Il existe une politique formelle pour cadrer la conformité des licences Open Source contenues dans le Logiciel Fourni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;Adequate funding has been allocated.&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T164432Z" creationid="lionel" creationdate="20190606T164325Z">
+        <seg>Un budget raisonnable leur sont consacrées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;Assign accountability to ensure the successful execution of Program tasks.&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T164053Z" creationid="lionel" creationdate="20190606T164053Z">
+        <seg>&lt;x1/&gt;Créer le(s) rôle(s) de responsable pour assurer la bonne exécution des missions du Programme.&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;Contents&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T142043Z" creationid="lionel" creationdate="20190605T142043Z">
+        <seg>&lt;x1/&gt;Table des matières&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;Determine the necessary competence of person(s) fulfilling each role&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T135955Z" creationid="lionel" creationdate="20190606T124202Z">
+        <seg>&lt;x1/&gt;Déterminer les compétences nécessaire de la ou les personnes remplissant chaque rôle&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;Different Programs may be governed by different levels of scope.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T143347Z" creationid="lionel" creationdate="20190606T143347Z">
+        <seg>&lt;x1/&gt;Plusieurs programmes peuvent régir des périmètres différents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;Ensure that these persons are competent on the basis of appropriate education, training, and/or experience;&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T140244Z" creationid="lionel" creationdate="20190606T124822Z">
+        <seg>&lt;x1/&gt;S’assurer que ces personnes sont compétentes au regard de leur parcours académique, de formations suivies ou de leurs expérience professionnelle;&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;Identify the roles and the corresponding responsibilities of those roles that affects the performance and effectiveness of the Program;&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T135706Z" creationid="lionel" creationdate="20190606T123928Z">
+        <seg>&lt;x1/&gt;Déterminer les rôles et les responabilité associés qui garantissent l'efficacité et la pertinence du Programme;&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;Legal expertise pertaining to Open Source license compliance is accessible to those who may need such guidance; and&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T164914Z" creationid="lionel" creationdate="20190606T164914Z">
+        <seg>&lt;x1/&gt;L'expertise juridique sur la conformité des licences Open Source est accessible à ceux qui peuvent en avoir besoin; et&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;Maintain a process to effectively respond to external Open Source inquiries.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T155010Z" creationid="lionel" creationdate="20190606T155010Z">
+        <seg>&lt;x1/&gt;Un processus est entretenu pour répondre efficacement aux demandes externes sur les logiciels Open Source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;Program tasks are sufficiently resourced:&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T164139Z" creationid="lionel" creationdate="20190606T164139Z">
+        <seg>&lt;x1/&gt;Les missions du Programme disposent des ressources nécessaires:&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;Retain appropriate documented information as evidence of competence.&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T140522Z" creationid="lionel" creationdate="20190606T125301Z">
+        <seg>&lt;x1/&gt;Conserver les documents nécessaires pour fournir la preuve de ces compétences.&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;The organization shall ensure that Program participants are aware of:&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T133136Z" creationid="lionel" creationdate="20190606T133058Z">
+        <seg>&lt;x1/&gt;L’organisation doit s’assurer que les participants au programme sont tenus informés :&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;The organization shall:&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T122752Z" creationid="lionel" creationdate="20190606T122752Z">
+        <seg>&lt;x1/&gt;L'organisation doit :&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;Time to perform the tasks have been allocated; and&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T164309Z" creationid="lionel" creationdate="20190606T164309Z">
+        <seg>Suffisamment de temps a été alloué pour effectuer les missions; et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;Where applicable, take actions to acquire the necessary competence; and&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T124944Z" creationid="lionel" creationdate="20190606T124944Z">
+        <seg>&lt;x1/&gt;Le cas échéant, prendre des mesures pour acquérir les compétences nécessaires ; et&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;a) The Open Source policy;&lt;x2/&gt;
+&lt;x3/&gt;b) Relevant Open Source objectives;&lt;x4/&gt;
+&lt;x5/&gt;c) Their contribution to the effectiveness of the Program; and&lt;x6/&gt;
+&lt;x7/&gt;d) The implications of not following the Program&amp;#39;s requirements.&lt;x8/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T141300Z" creationid="lionel" creationdate="20190606T133225Z">
+        <seg>&lt;x1/&gt;a) De sa politique Open Source ;&lt;x2/&gt;
+&lt;x3/&gt;b) Des enjeux de l'Open Source;&lt;x4/&gt;
+&lt;x5/&gt;c) De leur contribution à la réussite du Programme, et&lt;x6/&gt;
+&lt;x7/&gt;d) Des conséquences du non-respect des exigences du Programme.&lt;x8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A copy of the license can be found at &lt;x1/&gt;https://creativecommons.org/licenses/by/4.0/&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T145223Z" creationid="lionel" creationdate="20190605T145223Z">
+        <seg>Le texte de cette licence est disponible à l'adresse  &lt;x1/&gt;https://creativecommons.org/licenses/by/4.0/&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A description of the SPDX specification can be found at www.spdx.org.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T120149Z" creationid="lionel" creationdate="20190606T120149Z">
+        <seg>Une description de la spécification SPDX peut être trouvée sur le site www.spdx.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A document that identifies the competencies for each role.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T130143Z" creationid="lionel" creationdate="20190606T130143Z">
+        <seg>Un document qui détermine les compétences requises pour chaque rôle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A documented Open Source policy.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T122109Z" creationid="lionel" creationdate="20190606T122109Z">
+        <seg>Il existe une politique de contribution Open Source documentée;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A documented list of roles with corresponding responsibilities for the different participants in the Program.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T140801Z" creationid="lionel" creationdate="20190606T125748Z">
+        <seg>Une liste détaillée des rôles et des responsabilités assoicées pour chaque participant au Programme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A documented procedure for handling the review and remediation of non-compliant cases.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T165918Z" creationid="lionel" creationdate="20190606T165918Z">
+        <seg>Il existe une procédure documentée pour la vérification de la conformité et le traitement des cas de non-conformité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A documented procedure that assigns internal responsibilities for Open Source compliance.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T165844Z" creationid="lionel" creationdate="20190606T165650Z">
+        <seg>Il existe une procédure documentée qui attribue les responsabilités internes correspondant à la gestion de la conformité Open Source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A documented procedure that makes Software Staff aware of the existence of the Open Source policy (&lt;x1/&gt;e.g.&lt;x2/&gt;, via training, internal wiki, or other practical communication method).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T135241Z" creationid="lionel" creationdate="20190606T122201Z">
+        <seg>Il existe une procédure documentée informant l'Équipe Logiciel de l'existence d'une politique de contribution Open Source(par exemple, via formation, wiki interne, ou tout autre moyen de communication).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A documented procedure to review and document the obligations, restrictions and rights granted by each Identified License.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T153301Z" creationid="lionel" creationdate="20190606T153301Z">
+        <seg>Procédure documentée pour examiner et rencenser les obligations, restrictions et droits accordés par chaque Licence Identifiée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A requirement consists of one or more Verification Materials (&lt;x1/&gt;i.e.&lt;x2/&gt;, records) that must be produced to satisfy the requirement.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T155608Z" creationid="lionel" creationdate="20190605T154145Z">
+        <seg>Plusieurs Points de vérifications  (&lt;x1/&gt;i.e.&lt;x2/&gt;, records) doivent être être remplis pour compléter une exigence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A written statement that clearly defines the scope and limits of the Program.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T143830Z" creationid="lionel" creationdate="20190606T143600Z">
+        <seg>Une déclaration écrite qui définit clairement la portée et les limites du Programme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Access</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T154117Z" creationid="lionel" creationdate="20190606T154117Z">
+        <seg>Accès</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adherence to the Specification Requirements</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T144453Z" creationid="lionel" creationdate="20190605T144435Z">
+        <seg>Conformité aux exigences des Spécifications</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although no requirements are provided here on what should be included in the policy, other sections may impose requirements on the policy.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T122613Z" creationid="lionel" creationdate="20190606T122613Z">
+        <seg>Bien qu'aucune exigence ne soit fournie ici sur ce que la politique devrait contenir, d'autres sections peuvent définir des exigences sur son contenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An internal documented procedure for responding to third party Open Source license compliance inquiries.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T161258Z" creationid="lionel" creationdate="20190606T161258Z">
+        <seg>Fournir une procédure interne permettant de répondre à toute demande ayant trait à la conformité Open Source et provenant d'une tierce partie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appendix I: Language Translations</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T144529Z" creationid="lionel" creationdate="20190605T144444Z">
+        <seg>Annexe I: Traductions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Awareness</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T133024Z" creationid="lionel" creationdate="20190606T133024Z">
+        <seg>Sensibilisation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Competence</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T122622Z" creationid="lionel" creationdate="20190606T122622Z">
+        <seg>Compétence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compliance Artifact Creation and Delivery</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T144239Z" creationid="lionel" creationdate="20190605T144239Z">
+        <seg>Création et fourniture des Livrables de Conformité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Definitions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T161322Z" creationid="lionel" creationdate="20190605T161322Z">
+        <seg>2)Définitions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depending on the organization, that may include (but is not limited to) software developers, release engineers, quality engineers, product marketing and product management.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T103611Z" creationid="lionel" creationdate="20190606T103611Z">
+        <seg>En fonction des organisations, ceci peut inclure (mais n'est pas limité à) les développeurs logiciel, les ingénieurs de version, les ingénieurs qualité, les responsables produit et marketing produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Document with name of persons, group or function in Program role(s) identified.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T165153Z" creationid="lionel" creationdate="20190606T165153Z">
+        <seg>Il existe une liste avec le nom des personnes, du groupe ou du poste pour chaque rôle(s) identifié(s) du Programme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Documented evidence of assessed awareness for each Program personnel including the Program&amp;#39;s objectives, ones contribution within the Program, and implications of Program non-conformance.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T141805Z" creationid="lionel" creationdate="20190606T134205Z">
+        <seg>Preuves documentées que chaque membre du Programme a bien intégré, les objectifs du Programme, sa contribution au sein du Programme et les répercussions des manquements aux exigences du Programme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Documented evidence of assessed competence for each Program participant.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T131209Z" creationid="lionel" creationdate="20190606T131209Z">
+        <seg>Une preuve documentée attestant que les compétences de chaque participant au Programme ont été évaluées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Effectively Resourced</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T162058Z" creationid="lionel" creationdate="20190606T162058Z">
+        <seg>Ressources disponibles: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, a program could govern a single product line, an entire department or an entire organization.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T143424Z" creationid="lionel" creationdate="20190606T143424Z">
+        <seg> Par exemple, un Programme peut porter sur une seule gamme de produits ou sur l'ensemble de l'organisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, an OpenChain Conformant Program may address a single product line or the entire organization.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T152150Z" creationid="lionel" creationdate="20190605T152150Z">
+        <seg> Par exemple, un Programme conforme à OpenChain peut porter sur une seule gamme de produits ou sur l'ensemble de l'organisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Identification of legal expertise available to address Open Source license compliance matters which could be internal or external.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T165551Z" creationid="lionel" creationdate="20190606T165551Z">
+        <seg>Identification de l'expertise juridique disponible pour traiter les questions de conformité Open Source. L’expertise peut être interne ou externe..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the event there is confusion between this translation and the English version, The English text shall take precedence.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T145055Z" creationid="lionel" creationdate="20190605T145055Z">
+        <seg>En cas de contradiction entre cette traduction et la version anglaise, le texte original fait foi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insight into its historical development can be obtained by reviewing the Specification &lt;x1/&gt;mailing list&lt;x2/&gt; and &lt;x3/&gt;Frequently Asked Questions (FAQs)&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T161306Z" creationid="lionel" creationdate="20190605T161306Z">
+        <seg>Un aperçu de l'historique des contributions à la Spécification est consultable via la  &lt;x1/&gt;mailing list&lt;x2/&gt; et &lt;x3/&gt;la FAQ&lt;x4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has been translated from the original English text.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T145023Z" creationid="lionel" creationdate="20190605T145023Z">
+        <seg>à partir du texte anglais original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License Obligations</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T145759Z" creationid="lionel" creationdate="20190606T145759Z">
+        <seg>Obligations liées aux licences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Source Content Review and Approval</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T143713Z" creationid="lionel" creationdate="20190605T143238Z">
+        <seg>Contrôle et validation des composants Open Source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenChain Specification</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T141837Z" creationid="lionel" creationdate="20190605T141837Z">
+        <seg>Spécifications OpenChain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Program Foundation</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T142534Z" creationid="lionel" creationdate="20190605T142534Z">
+        <seg>Fondamentaux du Programme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Program Scope</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T142727Z" creationid="lionel" creationdate="20190606T142727Z">
+        <seg>Périmètre du Programme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Publicly identify a means by which a third party can make an Open Source compliance inquiry.&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T155637Z" creationid="lionel" creationdate="20190606T155637Z">
+        <seg>Rendre accessible publiquement un moyen simple, pour une tierce partie, de faire une demande sur la conformité Open Source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Publicly visible method that allows any third party to make an Open Source license compliance inquiry (&lt;x1/&gt;e.g.&lt;x2/&gt;, via a published contact email address, or the Linux Foundation&amp;#39;s Open Compliance Directory).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T160308Z" creationid="lionel" creationdate="20190606T160207Z">
+        <seg>Rendre accessible publiquement un moyen qui permette à toute tierce partie de faire une demande au sujet de la conformité(&lt;x1/&gt;par exemple&lt;x2/&gt; par une adresse email de contact publique ou via l'annuaire Open Compliance Directory de la Linux Foundation).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rationale :</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T122208Z" creationid="lionel" creationdate="20190606T122208Z">
+        <seg>Raison :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relevant Tasks Defined and Supported</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T143142Z" creationid="lionel" creationdate="20190605T143142Z">
+        <seg>Définir les tâches pertinentes et leurs ressoures</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T120231Z" creationid="lionel" creationdate="20190606T120231Z">
+        <seg>Exigences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 2 defines key terms used throughout the Specification.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T152259Z" creationid="lionel" creationdate="20190605T152259Z">
+        <seg>La section 2 introduit les définitions et termes clés utilisés tout au long de la spécification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 3 defines the requirements that a Program must satisfy to achieve conformance.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T152527Z" creationid="lionel" creationdate="20190605T152527Z">
+        <seg>La section 3 définit les exigences requises pour que le Programme soit considéré comme conforme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some organizations could choose to maintain a Program for a specific product line while others could implement a Program to govern the Supplied Software of the entire organization.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T145432Z" creationid="lionel" creationdate="20190606T145432Z">
+        <seg>Certaines organisations peuvent choisir de poursuivre un Programme pour une gamme de produits, tandis que d'autres peuvent implémenter un Programme qui régit les Logiciels Fournis par l'ensemble de l'organisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specification conformance provides assurance that a Program has been designed to produce the required Compliance Artifacts (&lt;x1/&gt;i.e.&lt;x2/&gt;, legal notices, source code and so forth) for each software solution.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T150843Z" creationid="lionel" creationdate="20190605T150843Z">
+        <seg>Le respect de ces Spécifications assure que q'un Programme a été mis en oeuvre pour produire les livrables de conformité (&lt;x1/&gt;ex :&lt;x2/&gt;, notices juridiques, code source, etc.) pour chacun des logiciels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The OpenChain Specification focuses on the &amp;quot;what&amp;quot; and &amp;quot;why&amp;quot; aspects of a Program rather than the &amp;quot;how&amp;quot; and &amp;quot;when&amp;quot;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T151021Z" creationid="lionel" creationdate="20190605T151021Z">
+        <seg>La spécification se concentre sur les qualités des "quoi" et "pourquoi" d’un programme de conformité et non aux considérations des "comment" et "quand".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Specification is developed as an open initiative with feedback received from over 150 contributors.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T090532Z" creationid="lionel" creationdate="20190605T160639Z">
+        <seg>La présente Spécification a été élaborée de manière participative avec l'aide de 150 contributeurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The collection may include (but is not limited to) one or more of the following: source code, attribution notices, copyright notices, copy of licenses, modification notifications, written offers, Open Source component bill of materials, and SPDX documents.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T093236Z" creationid="lionel" creationdate="20190606T093236Z">
+        <seg>Cet ensemble correspond aux Livrables de Conformité qui peuvent inclure (mais ne sont pas limités à) un ou plusieurs des éléments suivants : code source, notices d'attribution, notices de droits d'auteur, copie des licences, notifications de modifications, offres écrites, documents SPDX et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The identified Program roles have been properly staffed and adequate funding provided.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T165328Z" creationid="lionel" creationdate="20190606T165328Z">
+        <seg>Les rôles définis pour le Programme ont été suffisamment pourvus en personnel et un financement adéquat est prévu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The objective is to provide a benchmark that builds trust between organizations exchanging software solutions comprised of open source software.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T150043Z" creationid="lionel" creationdate="20190605T150043Z">
+        <seg>L'objectif est de fournir un point de repère à même de renforcer la confiance entre organisations échangeant des logiciels contenant des composants Open Source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The policy must be internally communicated.&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T121934Z" creationid="lionel" creationdate="20190606T121934Z">
+        <seg>Cette politique doit être communiquée en interne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The scope designation needs to be declared for each Program.&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T143532Z" creationid="lionel" creationdate="20190606T143532Z">
+        <seg>La désignation du périmètre doit être faite pour chaque Programme.&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This document is licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T145127Z" creationid="lionel" creationdate="20190605T145127Z">
+        <seg>Ce document est diffusé sous la licence Creative Commons Attribution 4.0 International  (CC-BY 4.0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This ensures flexibility for different organizations of different sizes in different markets to choose specific policy and process content that fits their size, goals and scope.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T152019Z" creationid="lionel" creationdate="20190605T152019Z">
+        <seg>Cela permet d'assurer à des organisations de tailles différentes opérant dans des marchés différents une flexibilité suffisante pour choisir des politiques et des modes d'organisation qui soient adaptés à leurs tailles, à leurs buts, et à leurs périmètres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This introduction provides the context for all potential users.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T152247Z" creationid="lionel" creationdate="20190605T152247Z">
+        <seg>Cette introduction présente le contexte pour tous les utilisateurs potentiels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is an official translation from the OpenChain Project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T145003Z" creationid="lionel" creationdate="20190605T145003Z">
+        <seg>Le présent document est la traduction officielle du projet OpenChain </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This specification defines the key requirements of a quality open source license compliance program.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T145559Z" creationid="lionel" creationdate="20190605T145559Z">
+        <seg>Ces spécifications définissent les exigences fondamentales pour un Programme de conformité Open Source de qualité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To ensure Program personnel have obtained a sufficient level of awareness for their respective roles and responsibilities within the Program.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T134328Z" creationid="lionel" creationdate="20190606T134328Z">
+        <seg>S'assurer que le personnel associé au Programme a obtenu un niveau de sensibilisation suffisant concernant ses rôles et responsabilités au sein du Programme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To ensure a process exists for reviewing and identifying the license obligations for each Identified License for the various use cases an organization may encounter (as defined in requirement 3.2).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T154059Z" creationid="lionel" creationdate="20190606T154059Z">
+        <seg>S'assurer qu'il existe un processus pour contrôler et identifier les obligations des licences pour chaque Licence Identifiée, le tout pour chaque cas d'usage qu'une organisation peut rencontrer (conformémnt aux exigences 3.2) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To ensure steps are taken to create, record and make Software Staff aware of the existence of an Open Source policy.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T122459Z" creationid="lionel" creationdate="20190606T122459Z">
+        <seg>S'assurer que l'Équipe Logiciel ait été informée de l'existence d'une politique Open Source. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To ensure that the identified participants fulfilling Program roles have obtained a sufficient level of competence for their respective roles and responsibilities.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T132001Z" creationid="lionel" creationdate="20190606T131740Z">
+        <seg>S'assurer que les personnes dont le rôle est défini dans le Programme disposent des compétences nécessaires pour remplir leurs rôles et responsabilités respectifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To ensure there is a reasonable way for third parties to contact the organization with regard to Open Source compliance inquiries and that the organization is prepared to effectively respond.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T161947Z" creationid="lionel" creationdate="20190606T161947Z">
+        <seg>S'assurer qu'un tiers puisse raisonnablement contacter l'organisation pour lui adresser ses demandes relatives à la conformité Open Source, et que l'organisation est en mesure de répondre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To ensure: i) Program responsibilities are effectively supported and resourced and ii) policies and supporting processes are regularly updated to accommodate changes in Open Source compliance best practices.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T170224Z" creationid="lionel" creationdate="20190606T170224Z">
+        <seg>Assurer : i) que les responsabilités du Programme sont efficacement effectuées et dotées de ressources et d'outils efficaces.  ii) que les processus de support sont régulièrement mis à jour pour tenir compte des changements apportés aux pratiques en matière de conformité Open Source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To provide the flexibility to construct a Program that best fits the scope of an organization&amp;#39;s needs.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T144451Z" creationid="lionel" creationdate="20190606T144303Z">
+        <seg>Offrir aux organisations la flexibilité nécessaire pour qu'elles élaborent le Programme qui corresponde le mieux à leurs besoins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Understanding Open Source Community Engagements</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T144329Z" creationid="lionel" creationdate="20190605T144329Z">
+        <seg>Comprendre l'implication dans les communautés Open Source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verification Material(s):</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T121941Z" creationid="lionel" creationdate="20190606T121941Z">
+        <seg>Point(s) de vérification :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verification Materials are not required to be made public, though an organization may choose to provide them to others, potentially under a Non-Disclosure Agreement (NDA).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T160056Z" creationid="lionel" creationdate="20190605T155940Z">
+        <seg>Il n’est pas nécessaire que les Points de vérification soient rendus public, bien qu'une organisation puisse choisir de le faire, éventuellement en vertu d'un accord de non-divulgation (NDA).</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

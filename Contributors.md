@@ -3,3 +3,4 @@
 - Laurent JOUBERT
 - Camille MOULIN
 - Harmonie VO VIET ANH
+- Lionel LOUBET

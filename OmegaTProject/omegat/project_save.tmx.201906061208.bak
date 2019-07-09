@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;quot; &lt;x1/&gt;Program&lt;x2/&gt;&amp;quot; – the set of policies, processes and personnel that manage an organization&amp;#39;s Open Source license compliance activities.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T100812Z" creationid="lionel" creationdate="20190606T100812Z">
+        <seg>$&amp;quot; &lt;x1/&gt;Programme&lt;x2/&gt;&amp;quot; – Un ensemble de politiques, de processus et du personnel that manage an organization&amp;#39;s Open Source license compliance activities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2)Definitions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T142139Z" creationid="lionel" creationdate="20190605T142139Z">
+        <seg>2)Définitions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3)Requirements</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T142129Z" creationid="lionel" creationdate="20190605T142129Z">
+        <seg>Exigences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&amp;quot;Compliance Artifacts&amp;quot; -&lt;x2/&gt; a collection of artifacts that represent the output of the Program for the Supplied Software.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T093332Z" creationid="lionel" creationdate="20190606T093151Z">
+        <seg>&lt;x1/&gt;&amp;quot;Livrables de Conformité&amp;quot; -&lt;x2/&gt; Un ensemble de Livrables qui constituent la matérialisation du Programme pour le Logiciel Fourni.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&amp;quot;Identified Licenses&amp;quot;&lt;x2/&gt; - a set of Open Source Software licenses identified as a result of following an appropriate method of identifying Open Source components from which the Supplied Software is comprised.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T094227Z" creationid="lionel" creationdate="20190606T094150Z">
+        <seg>&lt;f0&gt;Licences Identifiées&lt;/f0&gt; - Un ensemble de licences Open Source intégrées dans le Logiciel Fourni, et identifiées comme résultat d'une méthode appropriée d'identification de telles licences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&amp;quot;Open Source&amp;quot;&lt;x2/&gt;  - software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (OpenSource.org) or the Free Software Definition (published by the Free Software Foundation) or similar license.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T094711Z" creationid="lionel" creationdate="20190606T094711Z">
+        <seg>&lt;f0&gt;Open Source&lt;/f0&gt; logiciel soumis à une ou plusieurs licences qui respecte l'Open Source Definition publiée par l'Open Source Initiative (OpenSource.org) ou la Free Software Definition (publiée par la Free Software Foundation) ou licence similaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;&amp;quot;OpenChain Conformant&lt;x2/&gt;&amp;quot; - a Program that satisfies all the requirements of this specification.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T094305Z" creationid="lionel" creationdate="20190606T094305Z">
+        <seg>&lt;f0&gt;Conforme à OpenChain &lt;/f0&gt;- un Programme qui satisfait toutes les exigences de cette spécification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;Contents&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T142043Z" creationid="lionel" creationdate="20190605T142043Z">
+        <seg>&lt;x1/&gt;Table des matières&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A copy of the license can be found at &lt;x1/&gt;https://creativecommons.org/licenses/by/4.0/&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T145223Z" creationid="lionel" creationdate="20190605T145223Z">
+        <seg>Le texte de cette licence est disponible à l'adresse  &lt;x1/&gt;https://creativecommons.org/licenses/by/4.0/&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A requirement consists of one or more Verification Materials (&lt;x1/&gt;i.e.&lt;x2/&gt;, records) that must be produced to satisfy the requirement.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T155608Z" creationid="lionel" creationdate="20190605T154145Z">
+        <seg>Plusieurs Points de vérifications  (&lt;x1/&gt;i.e.&lt;x2/&gt;, records) doivent être être remplis pour compléter une exigence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adherence to the Specification Requirements</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T144453Z" creationid="lionel" creationdate="20190605T144435Z">
+        <seg>Conformité aux exigences des Spécifications</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appendix I: Language Translations</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T144529Z" creationid="lionel" creationdate="20190605T144444Z">
+        <seg>Annexe I: Traductions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compliance Artifact Creation and Delivery</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T144239Z" creationid="lionel" creationdate="20190605T144239Z">
+        <seg>Création et fourniture des Livrables de Conformité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Definitions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T161322Z" creationid="lionel" creationdate="20190605T161322Z">
+        <seg>2)Définitions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, an OpenChain Conformant Program may address a single product line or the entire organization.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T152150Z" creationid="lionel" creationdate="20190605T152150Z">
+        <seg> Par exemple, un Programme conforme à OpenChain peut porter sur une seule gamme de produits ou sur l'ensemble de l'organisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the event there is confusion between this translation and the English version, The English text shall take precedence.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T145055Z" creationid="lionel" creationdate="20190605T145055Z">
+        <seg>En cas de contradiction entre cette traduction et la version anglaise, le texte original fait foi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insight into its historical development can be obtained by reviewing the Specification &lt;x1/&gt;mailing list&lt;x2/&gt; and &lt;x3/&gt;Frequently Asked Questions (FAQs)&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T161306Z" creationid="lionel" creationdate="20190605T161306Z">
+        <seg>Un aperçu de l'historique des contributions à la Spécification est consultable via la  &lt;x1/&gt;mailing list&lt;x2/&gt; et &lt;x3/&gt;la FAQ&lt;x4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has been translated from the original English text.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T145023Z" creationid="lionel" creationdate="20190605T145023Z">
+        <seg>à partir du texte anglais original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Source Content Review and Approval</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T143713Z" creationid="lionel" creationdate="20190605T143238Z">
+        <seg>Contrôle et validation des composants Open Source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenChain Specification</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T141837Z" creationid="lionel" creationdate="20190605T141837Z">
+        <seg>Spécifications OpenChain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Program Foundation</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T142534Z" creationid="lionel" creationdate="20190605T142534Z">
+        <seg>Fondamentaux du Programme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relevant Tasks Defined and Supported</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T143142Z" creationid="lionel" creationdate="20190605T143142Z">
+        <seg>Définir les tâches pertinentes et leurs ressoures</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 2 defines key terms used throughout the Specification.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T152259Z" creationid="lionel" creationdate="20190605T152259Z">
+        <seg>La section 2 introduit les définitions et termes clés utilisés tout au long de la spécification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 3 defines the requirements that a Program must satisfy to achieve conformance.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T152527Z" creationid="lionel" creationdate="20190605T152527Z">
+        <seg>La section 3 définit les exigences requises pour que le Programme soit considéré comme conforme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specification conformance provides assurance that a Program has been designed to produce the required Compliance Artifacts (&lt;x1/&gt;i.e.&lt;x2/&gt;, legal notices, source code and so forth) for each software solution.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T150843Z" creationid="lionel" creationdate="20190605T150843Z">
+        <seg>Le respect de ces Spécifications assure que q'un Programme a été mis en oeuvre pour produire les livrables de conformité (&lt;x1/&gt;ex :&lt;x2/&gt;, notices juridiques, code source, etc.) pour chacun des logiciels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The OpenChain Specification focuses on the &amp;quot;what&amp;quot; and &amp;quot;why&amp;quot; aspects of a Program rather than the &amp;quot;how&amp;quot; and &amp;quot;when&amp;quot;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T151021Z" creationid="lionel" creationdate="20190605T151021Z">
+        <seg>La spécification se concentre sur les qualités des "quoi" et "pourquoi" d’un programme de conformité et non aux considérations des "comment" et "quand".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Specification is developed as an open initiative with feedback received from over 150 contributors.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T090532Z" creationid="lionel" creationdate="20190605T160639Z">
+        <seg>La présente Spécification a été élaborée de manière participative avec l'aide de 150 contributeurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The collection may include (but is not limited to) one or more of the following: source code, attribution notices, copyright notices, copy of licenses, modification notifications, written offers, Open Source component bill of materials, and SPDX documents.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190606T093236Z" creationid="lionel" creationdate="20190606T093236Z">
+        <seg>Cet ensemble correspond aux Livrables de Conformité qui peuvent inclure (mais ne sont pas limités à) un ou plusieurs des éléments suivants : code source, notices d'attribution, notices de droits d'auteur, copie des licences, notifications de modifications, offres écrites, documents SPDX et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The objective is to provide a benchmark that builds trust between organizations exchanging software solutions comprised of open source software.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T150043Z" creationid="lionel" creationdate="20190605T150043Z">
+        <seg>L'objectif est de fournir un point de repère à même de renforcer la confiance entre organisations échangeant des logiciels contenant des composants Open Source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This document is licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T145127Z" creationid="lionel" creationdate="20190605T145127Z">
+        <seg>Ce document est diffusé sous la licence Creative Commons Attribution 4.0 International  (CC-BY 4.0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This ensures flexibility for different organizations of different sizes in different markets to choose specific policy and process content that fits their size, goals and scope.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T152019Z" creationid="lionel" creationdate="20190605T152019Z">
+        <seg>Cela permet d'assurer à des organisations de tailles différentes opérant dans des marchés différents une flexibilité suffisante pour choisir des politiques et des modes d'organisation qui soient adaptés à leurs tailles, à leurs buts, et à leurs périmètres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This introduction provides the context for all potential users.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T152247Z" creationid="lionel" creationdate="20190605T152247Z">
+        <seg>Cette introduction présente le contexte pour tous les utilisateurs potentiels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is an official translation from the OpenChain Project.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T145003Z" creationid="lionel" creationdate="20190605T145003Z">
+        <seg>Le présent document est la traduction officielle du projet OpenChain </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This specification defines the key requirements of a quality open source license compliance program.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T145559Z" creationid="lionel" creationdate="20190605T145559Z">
+        <seg>Ces spécifications définissent les exigences fondamentales pour un Programme de conformité Open Source de qualité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Understanding Open Source Community Engagements</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T144329Z" creationid="lionel" creationdate="20190605T144329Z">
+        <seg>Comprendre l'implication dans les communautés Open Source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verification Materials are not required to be made public, though an organization may choose to provide them to others, potentially under a Non-Disclosure Agreement (NDA).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="lionel" changedate="20190605T160056Z" creationid="lionel" creationdate="20190605T155940Z">
+        <seg>Il n’est pas nécessaire que les Points de vérification soient rendus public, bien qu'une organisation puisse choisir de le faire, éventuellement en vertu d'un accord de non-divulgation (NDA).</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

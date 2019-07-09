@@ -1,0 +1,15 @@
+28/06/19 17:46
+Données du projet
+
+                           	Segments	Mots	Caractères (sans espaces)	Caractères (avec espaces)	Nombre de fichiers	
+Total :                    	     446	4609	                    27903	                    31997	                 2	
+Restants :                 	      90	 198	                      996	                     1096	                 2	
+Segments uniques :         	     285	3378	                    20248	                    23286	                 2	
+Segments uniques restants :	      68	 169	                      855	                      948	                 2	
+
+
+Statistiques par fichiers :
+
+Nom du fichier                          	Total segments	Segments restants	Segments uniques	Segments uniques restants	Total mots	Mots restants	Mots uniques	Mots uniques restants	Total caractères (sans espaces)	Caractères restants (sans espaces)	Caractères uniques (sans espaces)	Caractères uniques restants (sans espaces)	Total caractères (avec espaces)	Caractères restants (avec espaces)	Caractères uniques (avec espaces)	Caractères uniques restants (avec espaces)	
+OpenChain-2.0-Template_ODF.odt          	           211	               34	             175	                       31	      2277	          129	        2190	                  124	                          13500	                               662	                            12808	                                       633	                          15540	                               750	                            14809	                                       719	
+OpenChainSpec-2.0.TranslationTemplate.md	           235	               56	             110	                       37	      2332	           69	        1188	                   45	                          14403	                               334	                             7440	                                       222	                          16457	                               346	                             8477	                                       229	
